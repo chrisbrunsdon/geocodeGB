@@ -1,6 +1,0 @@
-all.postcodes           All of the postcode information used in the
-                        look up operation
-osng.proj4string        'Proj4' string for postcode coordinates
-postcode.lookup.df      Data frame postcode geocoding function
-postcode.lookup.vec     Character postcode geocoding function
-postcoder-package       Geocoding Data With GB Post Codes

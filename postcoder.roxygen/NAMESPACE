@@ -1,1 +1,0 @@
-export(postcode.lookup.vec, postcode.lookup.df, osng.proj4string, all.postcodes)
