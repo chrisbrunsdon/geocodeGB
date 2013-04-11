@@ -1,0 +1,14 @@
+* using log directory ‘/Users/chrisbrunsdon/Dropbox/PAF/ONSPD_AUG_2012_CSV/geocodeGB/postcoder.roxygen.Rcheck’
+* using R version 2.15.2 (2012-10-26)
+* using platform: x86_64-apple-darwin9.8.0 (64-bit)
+* using session charset: UTF-8
+* checking for file ‘postcoder.roxygen/DESCRIPTION’ ... OK
+* this is package ‘postcoder’ version ‘0.9’
+* checking package namespace information ... OK
+* checking package dependencies ... OK
+* checking if this is a source package ... OK
+* checking if there is a namespace ... OK
+* checking for executable files ... OK
+* checking whether package ‘postcoder’ can be installed ... ERROR
+Installation failed.
+See ‘/Users/chrisbrunsdon/Dropbox/PAF/ONSPD_AUG_2012_CSV/geocodeGB/postcoder.roxygen.Rcheck/00install.out’ for details.

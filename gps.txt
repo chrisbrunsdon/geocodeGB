@@ -1,0 +1,1861 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+<title>GPs - Liverpool PCT - NHS Choices</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="description" content="Official information from NHS about Liverpool PCT including contact details, directions, opening hours and service/treatment details" />
+<meta name="keywords" content="National Health Service (NHS), Liverpool PCT, GPs" />
+<meta name="DC.title" content="GPs - Liverpool PCT - NHS Choices" />
+<meta name="DC.description" content="Official information from NHS about Liverpool PCT including contact details, directions, opening hours and service/treatment details" />
+<meta name="DC.subject" scheme="eGMS.IPSV" content="National Health Service (NHS), Liverpool PCT, GPs" />
+<meta http-equiv="X-UA-Compatible" content="IE=8" />
+<link  rel="stylesheet" type="text/css" href="/css/base.css" media="" />
+<link  rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Expires" content="-1" />
+<link rel="canonical" href="/Services/Trusts/GPs/DefaultView.aspx?id=3557" />
+<!--[if !IE]>-->
+<style type ="text/css">
+@import url('/css/reset.css') screen;
+@import url('/css/screen.css') screen;
+@import url('/css/find-services.css')screen;
+@import url('/css/pims/pims.css')screen;
+
+ </style>
+<!--<![endif]-->
+<!--[if IE 6]>
+<link  rel="stylesheet" type="text/css" href="/css/reset-ie6.css" media="screen" />
+<link  rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link  rel="stylesheet" type="text/css" href="/css/find-services.css" media="screen" />
+<link  rel="stylesheet" type="text/css" href="/css/pims/pims.css" media="screen" />
+
+<link  rel="stylesheet" type="text/css" href="/css/if-ie6.css" media="screen" />
+<link  rel="stylesheet" type="text/css" href="/css/pims/if-ie6.css" media="screen" />
+<![endif]-->
+<!--[if IE 7]>
+<link  rel="stylesheet" type="text/css" href="/css/reset-ie7.css" media="screen" />
+<link  rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link  rel="stylesheet" type="text/css" href="/css/find-services.css" media="screen" />
+<link  rel="stylesheet" type="text/css" href="/css/pims/pims.css" media="screen" />
+
+<link  rel="stylesheet" type="text/css" href="/css/if-ie7.css" media="screen" />
+<link  rel="stylesheet" type="text/css" href="/css/pims/if-ie7.css" media="screen" />
+<![endif]-->
+<!--[if IE 8]>
+<link  rel="stylesheet" type="text/css" href="/css/reset-ie8.css" media="screen" />
+<link  rel="stylesheet" type="text/css" href="/css/screen.css" media="screen" />
+<link  rel="stylesheet" type="text/css" href="/css/find-services.css" media="screen" />
+<link  rel="stylesheet" type="text/css" href="/css/pims/pims.css" media="screen" />
+
+<link  rel="stylesheet" type="text/css" href="/css/if-ie8.css" media="screen" />
+<link  rel="stylesheet" type="text/css" href="/css/pims/if-ie8.css" media="screen" />
+<![endif]-->
+<meta name="DC.date.issued" scheme="W3CDTF" content="2009-28-09" />
+<meta name="eGMS.accessibility" scheme="eGMS.WCAG10" content="Double-A"/>
+<meta http-equiv="pics-Label" content='(pics-1.1 "http://www.icra.org/pics/vocabularyv03/" l gen true for "http://nhs.uk" r (n 2 s 1 v 0 l 0 oa 0 ob 0 oc 0 od 0 oe 0 of 0 og 0 oh 0 c 1) gen true for "http://www.nhs.uk" r (n 2 s 1 v 0 l 0 oa 0 ob 0 oc 0 od 0 oe 0 of 0 og 0 oh 0 c 1))' />
+<meta name="DC.coverage" content="England" />
+<meta name="DC.creator" content="NHS Choices" />
+<meta name="DC.format" scheme="IMT" content="text/html" />
+<meta name="DC.language" scheme="ISO 639-2/T" content="eng" />
+<meta name="DC.identifier" scheme="URI" content="http://www.nhs.uk" />
+<meta name="DC.publisher" content="Services of Health" />
+<meta name="DC.rights" content="http://www.nhs.uk/termsandconditions/Pages/TermsConditions.aspx" />
+<link rel="meta" href="/includes/labels.rdf" type="application/rdf+xml" title="ICRA labels" />
+<link rel="shortcut icon" href="/img/favicon.ico" type="image/vnd.microsoft.icon" />
+<script type="text/javascript" src="/includes/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="/includes/jquery.bgiframe.min.js"></script>
+<script type="text/javascript" src="/includes/jquery.cookie.js"></script> 
+<script type="text/javascript" src="/includes/choices.js"></script>
+<script type="text/javascript" src="/includes/jquery.dropdown.js"></script>
+<script type="text/javascript" src="/includes/jquery-ui-1.7.3.custom.min.js"></script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+<script type="text/javascript" src="/includes/translate.js"></script>
+  
+<script type="text/javascript" src="/includes/pims/Minified/JavascriptMinified.js"></script>
+
+
+
+
+<script type="text/javascript">
+  //<![CDATA[
+  function NhsUk_OnSubmit() {
+    var q = document.getElementById("q").value;
+    return q != "" && q != "Place, postcode or organisation";
+  }
+  //]]>
+</script>
+  <meta name="DCSext.Server" content="NHC10WEB14PRP"></meta>
+<meta name="WT.sv" content="NHC10WEB14PRP"></meta>
+<meta name="DCSext.ServiceName" content="Liverpool PCT"></meta>
+<meta name="DCSext.ServiceType" content="Trust"></meta>
+<meta name="DCSext.PIMS_orgkey" content="Liverpool PCT_5NL"></meta>
+<meta name="DCSext.service_city" content="Liverpool"></meta>
+<meta name="DCSext.service_Postcode" content="L1"></meta>
+<meta name="DCSext.service_PCT" content="Liverpool PCT"></meta>
+<meta name="DCSext.service_SHA" content="North West Strategic Health Authority"></meta>
+<meta name="DCSext.service_county" content="Merseyside"></meta>
+<meta name="WT.cg_n" content="Service Directories"></meta>
+<meta name="WT.cg_s" content="Trust"></meta>
+<!-- Webtrends Javascript tag -->
+<script type="text/javascript" src="/includes/sdc.js"></script>
+<script type="text/javascript" src="/includes/jquery.webtrendslinkstracking.js"></script>
+<script type="text/javascript">try{var _tag=new WebTrends();_tag.dcsGetId();}catch(e){}</script>
+<script type="text/javascript">try{_tag.dcsCollect();}catch(e){}</script>
+
+  
+  
+	
+</head>
+<body >
+<div class="wrap">
+  
+  <ul>
+        <li class="skip-link"><a href="#mainContent" accesskey="S"><span>Skip to main content</span></a></li>
+        <li class="skip-link"><a href="#main-navigation" accesskey="N"><span>Skip to main navigation</span></a></li>
+        <li class="skip-link"><a href="/accessibility/Pages/Accessibility.aspx"><span>Help with accessibility</span></a></li>
+    </ul>
+    
+  <!-- Header starts here.... -->
+  
+
+<!--googleoff: all-->
+<!-- HeaderTopBar starts here.... -->
+
+<ul class="info-nav">	
+    
+     
+                    <li class="first">
+                        <a href="/Pages/HomePage.aspx" accesskey="1" onclick="dcsMultiTrack('DCSext.HeaderClickUrl','/Pages/HomePage.aspx','WT.dl','121')">Home</a>
+                    </li>
+                
+                    <li>
+                        <a href="/aboutNHSChoices/Pages/AboutNHSChoices.aspx" onclick="dcsMultiTrack('DCSext.HeaderClickUrl','/aboutNHSChoices/Pages/AboutNHSChoices.aspx','WT.dl','121')">About</a>
+                    </li>
+                
+                    <li>
+                        <a href="/aboutNHSChoices/Pages/ContactUs.aspx" accesskey="9" onclick="dcsMultiTrack('DCSext.HeaderClickUrl','/aboutNHSChoices/Pages/ContactUs.aspx','WT.dl','121')">Contact</a>
+                    </li>
+                
+                    <li>
+                        <a href="/tools/pages/toolslibrary.aspx" onclick="dcsMultiTrack('DCSext.HeaderClickUrl','/tools/pages/toolslibrary.aspx','WT.dl','121')">Tools</a>
+                    </li>
+                
+                    <li>
+                        <a href="/video/pages/MediaLibrary.aspx" onclick="dcsMultiTrack('DCSext.HeaderClickUrl','/video/pages/MediaLibrary.aspx','WT.dl','121')">Video</a>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.chooseandbook.nhs.uk/" onclick="dcsMultiTrack('DCSext.HeaderClickUrl','http://www.chooseandbook.nhs.uk/','WT.dl','121')">Choose and Book</a>
+                    </li>
+                
+                    <li>
+                        <a href="http://www.healthunlocked.com/nhschoices/" onclick="dcsMultiTrack('DCSext.HeaderClickUrl','http://www.healthunlocked.com/nhschoices/','WT.dl','121')">Communities</a>
+                    </li>
+                
+                    <li class="last">
+                        <a href="/ipg/Pages/IPStart.aspx" onclick="dcsMultiTrack('DCSext.HeaderClickUrl','/ipg/Pages/IPStart.aspx','WT.dl','121')">IPS</a>
+                    </li>
+                	    
+  </ul>
+ 
+
+
+
+  <div class="tab-login anonymous-login">
+    <ul class="translate"> 
+            <li class="translate-item"><a href="/aboutnhschoices/aboutnhschoices/aboutus/pages/languageshub.aspx" class="translate-text">Translate</a></li>
+        </ul>
+    <ul class="personal-header clear">
+      <li class="logged-out"><span class="crnr tl"></span><a href="/Personalisation/Login.aspx">Log in</a> or</li>
+      <li class="create-account"><a href="/Personalisation/Registration.aspx?ReturnUrl=http%3a%2f%2fwww.nhs.uk%2fServices%2fTrusts%2fGPs%2fDefaultView.aspx%3fid%3d3557" id="ctl00_ctl00_ctl00_header_headerTopBar_CreateAccount">create an account</a><span class="crnr tr"></span></li>
+    </ul>
+  </div>
+
+
+<!-- HeaderTopBar ends here.... -->
+
+<div class="header">
+  <span class="crnr tl"></span>
+  
+   <!-- HeaderLogo starts here.... -->
+  
+    <div class="heading">
+      <p class="choices-logo">
+        <a href="/" title="Go to NHS Choices homepage">
+            <img src="/img/header/choices-logo.gif" alt="Go to NHS Choices homepage" />
+        </a>
+        <span id="ctl00_ctl00_ctl00_header_headerLogo_lhLinkText">Your health, your choices</span>
+        </p>
+    </div>
+  <!-- HeaderLogo ends here.... -->
+  
+  <p class="hidden"><strong>Information navigation</strong></p>
+
+   <!-- SearchBar starts here.... -->
+  
+<div class="searchbar">                             
+    <form id="gs" method="get" action="/Search/Pages/Results.aspx" onsubmit="return NhsUk_OnSubmit();">
+        <fieldset>
+            <legend class="hidden">Search entire site</legend>	
+            <div id="IdSearchBoxContainer" class="search-inner">
+                <div><span class="crnr tl"></span><span class="crnr tr"></span></div>
+                <div id="search-results-container">
+                    <label for="q"><span class="hidden">Enter a search term: </span>
+                        <input type="hidden" name="scope" id="LocalSearchScope" value="" />
+                        <input id="q" name="q" type="text" value="Enter a search term" accesskey="4" maxlength="500" />
+                    </label>
+                </div>
+                <div class="submit-container">
+                    <div><span class="crnr tl"></span><span class="crnr tr"></span></div>
+                    <div class="submit">
+                        <div><span class="crnr tl"></span><span class="crnr tr"></span></div>
+                        <input type="submit" value="Search" />
+                        <div><span class="crnr bl"></span><span class="crnr br"></span></div>
+                    </div>
+                    <div><span class="crnr bl"></span><span class="crnr br"></span></div>
+                </div>
+                <span class="crnr bl"></span><span class="crnr br"></span>
+            </div>
+        </fieldset>
+    </form>
+    <script type="text/javascript" src="/includes/PredictiveTextSearch.js"></script>
+    <script type="text/javascript">
+        //<![CDATA[
+        //<!--
+        $(document).ready(function() {
+        $.ajaxSetup({cache: false});
+        SetupPredictiveSearch("/NHSChoices/handlers/Search.ashx", $("#q"), $("#search-results-container"),10)});
+        // -->
+        //]]>
+    </script>
+</div>
+  <!-- SearchBar ends here.... -->
+
+  <!-- Header starts here.... -->
+  
+<div class="main-nav clear" id="main-navigation">
+	<p class="hidden">
+		<strong>Main navigation</strong>
+	</p>
+	<div id="ctl00_ctl00_ctl00_header_headerMenus_mainNavigation">
+	<ul><li class="health-az" id="health-az-topnav"><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/Pages/hub.aspx','WT.dl','121')" href="/Conditions/Pages/hub.aspx"> Health A-Z</a><div><ul><li class="first"><span>Hundreds of conditions explained</span></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/Arthritis','WT.dl','121')" href="/Conditions/Arthritis">Arthritis<span class="hidden"> information</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/conditions/asthma','WT.dl','121')" href="/conditions/asthma">Asthma<span class="hidden"> information</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/Back-pain','WT.dl','121')" href="/Conditions/Back-pain">Back pain<span class="hidden"> information</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','http://www.nhs.uk/Conditions/stress-anxiety-depression/Pages/low-mood-stress-anxiety.aspx','WT.dl','121')" href="http://www.nhs.uk/Conditions/stress-anxiety-depression/Pages/low-mood-stress-anxiety.aspx">Stress&#44; anxiety&#44; depression<span class="hidden"> information</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/Cancer-of-the-breast-female','WT.dl','121')" href="/Conditions/Cancer-of-the-breast-female">Breast cancer<span class="hidden"> information</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/pregnancy-and-baby/Pages/Babies-parents-videos.aspx','WT.dl','121')" href="/Conditions/pregnancy-and-baby/Pages/Babies-parents-videos.aspx">Pregnancy and baby<span class="hidden"> information</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/Diabetes-type2','WT.dl','121')" href="/Conditions/Diabetes-type2">Diabetes<span class="hidden"> information</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/eczema-(atopic)','WT.dl','121')" href="/Conditions/eczema-(atopic)">Eczema<span class="hidden"> information</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/Coronary-heart-disease','WT.dl','121')" href="/Conditions/Coronary-heart-disease">Heart disease<span class="hidden"> information</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/conditions/measles','WT.dl','121')" href="/conditions/measles">Measles<span class="hidden"> information</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','http://www.nhs.uk/conditions/flu/Pages/Introduction.aspx','WT.dl','121')" href="http://www.nhs.uk/conditions/flu/Pages/Introduction.aspx">Flu<span class="hidden"> information</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/conditions/whooping-cough/pages/introduction.aspx','WT.dl','121')" href="/conditions/whooping-cough/pages/introduction.aspx">Whooping cough<span class="hidden"> information</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','http://www.nhs.uk/conditions/online-clinics/Pages/Online-clinics-introduction.aspx','WT.dl','121')" href="http://www.nhs.uk/conditions/online-clinics/Pages/Online-clinics-introduction.aspx">Online clinics<span class="hidden"> information</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/CHQ/Pages/home.aspx','WT.dl','121')" href="/CHQ/Pages/home.aspx"> Common health questions</a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/nhsdirect/pages/symptoms.aspx','WT.dl','121')" href="/nhsdirect/pages/symptoms.aspx"> Symptom checkers</a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/medicine-guides/pages/default.aspx','WT.dl','121')" href="/medicine-guides/pages/default.aspx"> Medicines A-Z</a></li><li class="last bold"><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Conditions/Pages/BodyMap.aspx?Index=A','WT.dl','121')" href="/Conditions/Pages/BodyMap.aspx?Index=A"> All A-Z topics</a></li></ul></div></li><li class="livewell" id="livewell-topnav"><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/livewell/Pages/Livewellhub.aspx','WT.dl','121')" href="/livewell/Pages/Livewellhub.aspx"> Live Well</a><div><ul><li class="first"><span>Over 100 topics on healthy living</span></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Livewell/alcohol','WT.dl','121')" href="/Livewell/alcohol">Alcohol<span class="hidden"> articles</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/LiveWell/c25k/Pages/couch-to-5k.aspx','WT.dl','121')" href="/LiveWell/c25k/Pages/couch-to-5k.aspx">Couch to 5K<span class="hidden"> articles</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/livewell/fitness','WT.dl','121')" href="/livewell/fitness">Fitness<span class="hidden"> articles</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','http://www.nhs.uk/livewell/winterhealth/pages/fluandthefluvaccine.aspx','WT.dl','121')" href="http://www.nhs.uk/livewell/winterhealth/pages/fluandthefluvaccine.aspx">The flu jab<span class="hidden"> articles</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/livewell/healthy-eating','WT.dl','121')" href="/livewell/healthy-eating">Healthy eating<span class="hidden"> articles</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/livewell/loseweight','WT.dl','121')" href="/livewell/loseweight">Lose weight<span class="hidden"> articles</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/livewell/mentalhealth','WT.dl','121')" href="/livewell/mentalhealth">Mental health<span class="hidden"> articles</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/livewell/sexualhealth','WT.dl','121')" href="/livewell/sexualhealth">Sexual health<span class="hidden"> articles</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/livewell/smoking','WT.dl','121')" href="/livewell/smoking">Stop smoking<span class="hidden"> articles</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','http://www.nhs.uk/livewell/winterhealth','WT.dl','121')" href="http://www.nhs.uk/livewell/winterhealth">Winter health<span class="hidden"> articles</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/livewell/tiredness-and-fatigue','WT.dl','121')" href="/livewell/tiredness-and-fatigue">Tiredness<span class="hidden"> articles</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/Planners/vaccinations/Pages/Landing.aspx','WT.dl','121')" href="/Planners/vaccinations/Pages/Landing.aspx">Vaccinations<span class="hidden"> articles</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/tools/pages/toolslibrary.aspx','WT.dl','121')" href="/tools/pages/toolslibrary.aspx"> Health check tools</a></li><li class="last bold"><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/livewell/pages/topics.aspx','WT.dl','121')" href="/livewell/pages/topics.aspx"> All Live Well topics</a></li></ul></div></li><li class="carers" id="carers-topnav"><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/carersdirect','WT.dl','121')" href="/carersdirect"> Carers Direct</a><div><ul><li class="first"><span>Help for those looking after others </span></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/CarersDirect/guide','WT.dl','121')" href="/CarersDirect/guide"> Guide to caring</a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/CarersDirect/moneyandlegal','WT.dl','121')" href="/CarersDirect/moneyandlegal"> Money and legal</a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/CarersDirect/workandlearning','WT.dl','121')" href="/CarersDirect/workandlearning"> Work and learning</a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/CarersDirect/yourself','WT.dl','121')" href="/CarersDirect/yourself"> Your own wellbeing</a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/CarersDirect/moneyandlegal/carersbenefits/Pages/Overview.aspx','WT.dl','121')" href="/CarersDirect/moneyandlegal/carersbenefits/Pages/Overview.aspx"> Carers' benefits</a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/CarersDirect/guide/assessments/Pages/Carersassessments.aspx','WT.dl','121')" href="/CarersDirect/guide/assessments/Pages/Carersassessments.aspx"> Carers' assessments</a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/CarersDirect/guide/rights/Pages/carers-rights.aspx','WT.dl','121')" href="/CarersDirect/guide/rights/Pages/carers-rights.aspx"> Carers' rights</a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','http://www.nhs.uk/CarersDirect/guide/practicalsupport/Pages/Carehomes.aspx','WT.dl','121')" href="http://www.nhs.uk/CarersDirect/guide/practicalsupport/Pages/Carehomes.aspx"> Care homes</a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/CarersDirect/yourself/timeoff/Pages/Accessingrespitecare.aspx','WT.dl','121')" href="/CarersDirect/yourself/timeoff/Pages/Accessingrespitecare.aspx"> Breaks from caring</a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/CarersDirect/young','WT.dl','121')" href="/CarersDirect/young"> Young carers</a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/CarersDirect/carers-learning-online/Pages/Welcome.aspx','WT.dl','121')" href="/CarersDirect/carers-learning-online/Pages/Welcome.aspx"> Caring with confidence</a></li><li class="bold"><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/carersdirect','WT.dl','121')" href="/carersdirect"> All Carers Direct topics</a></li></ul></div></li><li class="news" id="news-topnav"><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/News/Pages/NewsIndex.aspx','WT.dl','121')" href="/News/Pages/NewsIndex.aspx"> Health news</a><div><ul><li class="first"><span>Health news stories unspun</span></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/news/pages/newsarticles.aspx?TopicId=Food%2fdiet','WT.dl','121')" href="/news/pages/newsarticles.aspx?TopicId=Food%2fdiet">Diet and nutrition<span class="hidden"> news reports</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/news/pages/newsarticles.aspx?TopicId=Obesity','WT.dl','121')" href="/news/pages/newsarticles.aspx?TopicId=Obesity">Obesity and weight loss<span class="hidden"> news reports</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/news/pages/newsarticles.aspx?TopicId=Neurology','WT.dl','121')" href="/news/pages/newsarticles.aspx?TopicId=Neurology">Neurology and dementia<span class="hidden"> news reports</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/news/pages/newsarticles.aspx?TopicId=Lifestyle%2fexercise','WT.dl','121')" href="/news/pages/newsarticles.aspx?TopicId=Lifestyle%2fexercise">Lifestyle and environment<span class="hidden"> news reports</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/news/pages/newsarticles.aspx?TopicId=Pregnancy%2fchild','WT.dl','121')" href="/news/pages/newsarticles.aspx?TopicId=Pregnancy%2fchild">Pregnancy and children<span class="hidden"> news reports</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/news/pages/newsarticles.aspx?TopicId=Cancer','WT.dl','121')" href="/news/pages/newsarticles.aspx?TopicId=Cancer">Cancer<span class="hidden"> news reports</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/news/pages/newsarticles.aspx?TopicId=Medication','WT.dl','121')" href="/news/pages/newsarticles.aspx?TopicId=Medication">Drugs and vaccines<span class="hidden"> news reports</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/news/pages/newsarticles.aspx?TopicId=Heart%2flungs','WT.dl','121')" href="/news/pages/newsarticles.aspx?TopicId=Heart%2flungs">Heart and lungs<span class="hidden"> news reports</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/news/pages/newsarticles.aspx?TopicId=Medical+practice','WT.dl','121')" href="/news/pages/newsarticles.aspx?TopicId=Medical+practice">Medical practice<span class="hidden"> news reports</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/news/pages/newsarticles.aspx?TopicId=Older+people','WT.dl','121')" href="/news/pages/newsarticles.aspx?TopicId=Older+people">Older people and ageing<span class="hidden"> news reports</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/news/pages/newsarticles.aspx?TopicId=Genetics%2fstem+cells','WT.dl','121')" href="/news/pages/newsarticles.aspx?TopicId=Genetics%2fstem+cells">Genetics and stem cells<span class="hidden">  news reports</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/news/pages/newsarticles.aspx?TopicId=Mental+health','WT.dl','121')" href="/news/pages/newsarticles.aspx?TopicId=Mental+health">Mental health<span class="hidden"> news reports</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/news/pages/newsarticles.aspx?TopicId=Diabetes','WT.dl','121')" href="/news/pages/newsarticles.aspx?TopicId=Diabetes">Diabetes<span class="hidden"> news reports</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/news/pages/newsarticles.aspx?TopicID=QA+articles','WT.dl','121')" href="/news/pages/newsarticles.aspx?TopicID=QA+articles"> Topical questions and answers</a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/news/pages/newsarticles.aspx?TopicId=Special+reports','WT.dl','121')" href="/news/pages/newsarticles.aspx?TopicId=Special+reports"> Special reports</a></li><li class="bold"><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/news','WT.dl','121')" href="/news"> All Behind the Headlines news</a></li></ul></div></li><li class="find-services" id="find-services-topnav"><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/servicedirectories/Pages/ServiceSearch.aspx','WT.dl','121')" href="/servicedirectories/Pages/ServiceSearch.aspx"> Health services near you</a><div><ul><li class="topnav-first"><p class="topnav-image"><img src="/img/header/its-your-choice.gif" alt=" its your choice" /></p><p class="topnav-heading">Don't miss out ...</p><p>Exercise your right to choice in the NHS</p>
+<p class="topnav-link"><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/choiceinthenhs/Pages/choicehome.aspx','WT.dl','121')" href="/choiceinthenhs/Pages/choicehome.aspx"> Learn about patient choice now</a></p></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/servicedirectories/Pages/ServiceSearch.aspx?ServiceType=AandE','WT.dl','121')" href="/servicedirectories/Pages/ServiceSearch.aspx?ServiceType=AandE">A&amp;E<span class="hidden"> search</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/servicedirectories/Pages/ServiceSearch.aspx?ServiceType=Hospital','WT.dl','121')" href="/servicedirectories/Pages/ServiceSearch.aspx?ServiceType=Hospital">Hospitals<span class="hidden"> search</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/servicedirectories/Pages/ServiceSearch.aspx?ServiceType=GP','WT.dl','121')" href="/servicedirectories/Pages/ServiceSearch.aspx?ServiceType=GP">GPs<span class="hidden"> search</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/servicedirectories/Pages/ServiceSearch.aspx?ServiceType=Dentist','WT.dl','121')" href="/servicedirectories/Pages/ServiceSearch.aspx?ServiceType=Dentist">Dentists<span class="hidden">search</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/servicedirectories/Pages/ServiceSearch.aspx?ServiceType=Pharmacy','WT.dl','121')" href="/servicedirectories/Pages/ServiceSearch.aspx?ServiceType=Pharmacy">Pharmacies<span class="hidden"> search</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/servicedirectories/Pages/ServiceSearch.aspx?ServiceType=Hospital&amp;ServiceName=Maternity','WT.dl','121')" href="/servicedirectories/Pages/ServiceSearch.aspx?ServiceType=Hospital&amp;ServiceName=Maternity">Maternity<span class="hidden"> search</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/servicedirectories/Pages/ServiceSearchAdditional.aspx?ServiceType=Alcohol','WT.dl','121')" href="/servicedirectories/Pages/ServiceSearchAdditional.aspx?ServiceType=Alcohol">Alcohol<span class="hidden"> search</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/servicedirectories/Pages/ServiceSearch.aspx?ServiceType=Hospital&amp;ServiceMode=Consultant','WT.dl','121')" href="/servicedirectories/Pages/ServiceSearch.aspx?ServiceType=Hospital&amp;ServiceMode=Consultant">Consultants<span class="hidden"> search</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/servicedirectories/Pages/ServiceSearch.aspx?ServiceType=Optician','WT.dl','121')" href="/servicedirectories/Pages/ServiceSearch.aspx?ServiceType=Optician">Opticians<span class="hidden"> search</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/servicedirectories/Pages/ServiceSearchAdditional.aspx?ServiceType=SexualHealthService','WT.dl','121')" href="/servicedirectories/Pages/ServiceSearchAdditional.aspx?ServiceType=SexualHealthService">Sexual health<span class="hidden"> search</span></a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/servicedirectories/Pages/ServiceSearchAdditional.aspx?ServiceType=StopSmokingService','WT.dl','121')" href="/servicedirectories/Pages/ServiceSearchAdditional.aspx?ServiceType=StopSmokingService">Stop smoking</a></li><li><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/servicedirectories/Pages/ServiceSearch.aspx?ServiceType=WalkInCentre','WT.dl','121')" href="/servicedirectories/Pages/ServiceSearch.aspx?ServiceType=WalkInCentre">Walk-in centres</a></li><li class="last bold"><a onclick="dcsMultiTrack('DCSext.HeaderMenuUrlClicked','/servicedirectories/Pages/ServiceSearch.aspx','WT.dl','121')" href="/servicedirectories/Pages/ServiceSearch.aspx"> All directories</a></li></ul></div></li></ul>
+</div>    
+</div>
+  <!-- Header ends here.... -->
+
+</div>
+<!--googleon: all-->
+  <!-- Header ends here.... -->
+    
+    <div id="mainContent"></div>
+    
+  <form method="post" action="DefaultView.aspx?id=3557" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTExNzI3MDI2MzlkGAIFWGN0bDAwJGN0bDAwJGN0bDAwJFBsYWNlSG9sZGVyTWFpbiRjb2x1bW4xQ29udGVudCRjb2x1bW4xQ29udGVudCRjdGwwMCRIaWRkZW5DaGlsZE9yZ0xpc3QPZ2QFWWN0bDAwJGN0bDAwJGN0bDAwJFBsYWNlSG9sZGVyTWFpbiRjb2x1bW4xQ29udGVudCRjb2x1bW4xQ29udGVudCRjdGwwMCRWaXNpYmxlQ2hpbGRPcmdMaXN0DzwrAAoCBzwrAGUACAJlZChFZrylpfPx04xDufZfnbDuawB2" />
+</div>
+
+
+<script type="text/javascript">
+//<![CDATA[
+
+                $(document).ready(function() {
+                    incrementHitCounter('3557');
+                });
+                var keyValueTreatments = new Array();
+                $(document).ready(function(){$('#divColWidgets').createColWidget({isHospital : false});});
+                var aPresetFormElements = new Array('_txtSearch');var APP_ROOT = '/Services'; var FULL_PATH ='http://www.nhs.uk';//]]>
+</script>
+
+  <div class="fs content-wrap clear profile pims">
+      
+    
+
+
+    <script type='text/javascript'>var onSuccessCallback8e763af418004798889ee079ae927f9d = function(action, moduleGuid){
+pcisManagedOnSuccess(action, moduleGuid);}
+;</script> 
+
+<div class="module profile-details clear" id="module8e763af418004798889ee079ae927f9d">  
+    
+    <div class="col five clear profile-info acute-trust-info">    
+        <h1 id="org-title" class="pct notranslate">Liverpool PCT</h1>
+        
+<div class="panel panel-nonedit module panel-profile-summary notranslate">
+  
+  <div class="panel-content">
+    <div class="pad clear">
+      
+                <p>1 Arthouse Square, 67-69 Seel Street, Liverpool, Merseyside, L1 4AZ<br /><strong>0151 296 7000</strong></p>
+            
+    </div>  
+  </div>
+</div>
+
+        
+<div class="panel panel-nonedit module panel-profile-site">
+  
+  <div class="panel-content">
+    <div class="pad clear">
+      
+                <p>Visit our website<br /><a href='http://www.liverpoolpct.nhs.uk'>http://www.liverpoolpct.nhs.uk</a></p>
+            
+    </div>  
+  </div>
+</div>
+
+    </div>
+</div>
+    <div class="tabs-nav">
+        
+  <span class="crnr tl"></span><ul id="ctl00_ctl00_ctl00_PlaceHolderMain_navigationTabsContent_navigationMenu_TabStrip" class="tabs clear">
+	<li><span><a href="/Services/Trusts/Overview/DefaultView.aspx?id=3557">Overview</a></span><span class="crnr tl"></span><span class="crnr tr"></span></li><li><span><a href="/Services/Trusts/HospitalsAndClinics/DefaultView.aspx?id=3557">Hospitals and clinics</a></span><span class="crnr tl"></span><span class="crnr tr"></span></li><li class="active"><span class="crnr tl"></span><span class="active-text">GPs</span><span class="crnr tr"></span></li><li><span><a href="/Services/Trusts/Dentists/DefaultView.aspx?id=3557">Dentists</a></span><span class="crnr tl"></span><span class="crnr tr"></span></li><li><span><a href="/Services/Trusts/Pharmacies/DefaultView.aspx?id=3557">Pharmacies</a></span><span class="crnr tl"></span><span class="crnr tr"></span></li><li><span><a href="/Services/Trusts/Opticians/DefaultView.aspx?id=3557">Opticians</a></span><span class="crnr tl"></span><span class="crnr tr"></span></li><li><span><a href="/Services/Trusts/PctServices/DefaultView.aspx?id=3557">Services</a></span><span class="crnr tl"></span><span class="crnr tr"></span></li><li><span><a href="/Services/Trusts/ContactDetails/DefaultView.aspx?id=3557">Contact</a></span><span class="crnr tl"></span><span class="crnr tr"></span></li>
+</ul><span class="crnr tr"></span>
+  
+
+
+
+    </div>
+    <div class="col five border">
+        
+    
+        <div class="pad clear">
+            <div class="col five-sm clear">
+                
+    
+
+                
+            </div>
+            <div class="col four-sm">
+                
+  
+
+            </div>      
+            <div id="ctl00_ctl00_ctl00_PlaceHolderMain_contentColumn1" class="col three-sm">
+                
+    <input type="hidden" name="ctl00$ctl00$ctl00$PlaceHolderMain$column1Content$webtrendsHidden" id="ctl00_ctl00_ctl00_PlaceHolderMain_column1Content_webtrendsHidden" />
+    
+  
+    
+    
+					<div class='panel '>					
+						<div class='panel-content'>
+							<div class='pad clear'>
+
+
+
+</div>
+						</div>
+					</div>
+				
+    <h2>
+        GPs</h2>
+    <h3>
+        Select a GP to find out about the services they provide</h3>
+    
+
+<div id="listContainer374f054e540349b0bedeee14dca63c58" class="box-list clear hospital-list notranslate">
+    
+				
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=42862">ABERCROMBY FAMILY PRACTICE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">Grove Street Edge Hill Liverpool Merseyside L7 7HG</dd><dt>Tel:</dt><dd>0151 295 3888</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=40294">ABINGDON FAMILY HEALTH CARE CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">361-365 Queens Drive Walton Liverpool Merseyside L4 8SJ</dd><dt>Tel:</dt><dd>0151 226 1501</dd><dt>Email:</dt><dd class="email"><a href="mailto:Irene.Bush@gp-n82086.nhs.uk">Irene.Bush@gp-n82086.nhs.uk</a></dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=44164">ALBION SURGERY</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">45 Everton Road Liverpool Merseyside L6 2EH</dd><dt>Tel:</dt><dd>0151 300 8302</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=37505">Anfield Group Practice</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">Townsend Lane Health Centre 98 Townsend Lane Merseyside Liverpool L6 0BB</dd><dt>Tel:</dt><dd>0151 295 9520</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=43083">BAYCLIFF FAMILY HEALTH CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">73 Baycliff Road Liverpool Merseyside L12 6QT</dd><dt>Tel:</dt><dd>0151 228 4272</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=43682">BELLE VALE HEALTH CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">Hedgefield Road Liverpool Merseyside L25 2XE</dd><dt>Tel:</dt><dd>0844 815 1047</dd><dt>Email:</dt><dd class="email"><a href="mailto:Paul.Smith@GP-N8094a.LHA">Paul.Smith@GP-N8094a.LHA</a></dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=38501">BENIM MEDICAL CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">2 Penvalley Crescent Liverpool Merseyside L6 3BY</dd><dt>Tel:</dt><dd>0151 263 6588</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=43517">BIGHAM ROAD MEDICAL CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">Bigham Road Liverpool Merseyside L6 6DW</dd><dt>Tel:</dt><dd>0151 263 1737</dd><dt>Email:</dt><dd class="email"><a href="mailto:Sueallan@gp-n82671.nhs.uk">Sueallan@gp-n82671.nhs.uk</a></dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=40343">BOUSFIELD HEALTH CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">Westminster Road Liverpool Merseyside L4 4PP</dd><dt>Tel:</dt><dd>0151 207 1468</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=41126">Brownlow Group Practice</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">Old Royal Infirmary 70 Pembroke Place Liverpool Merseyside L69 3GF</dd><dt>Tel:</dt><dd>0151 285 4578</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=39270">CHILDWALL VALLEY ROAD SURGERY</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">NOW BASED AT: The Fiveways Centre 215 Childwall Road Liverpool L15 6UT</dd><dt>Tel:</dt><dd>0151 295 9300</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=41154">DERBY LANE MEDICAL CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">88 Derby Lane Liverpool Merseyside L13 3DN</dd><dt>Tel:</dt><dd>0151 228 5868</dd><dt>Email:</dt><dd class="email"><a href="mailto:Karen.Wynne@GP-N82093.nhs.uk">Karen.Wynne@GP-N82093.nhs.uk</a></dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=43545">DHARMANAS FAMILY AND GENERAL PRACTICE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">97 Queens Drive Walton Liverpool L4 6SG</dd><dt>Tel:</dt><dd>0151 524 0267</dd><dt>Email:</dt><dd class="email"><a href="mailto:B.Chakrabarti@GP-N82657.NHS.UK">B.Chakrabarti@GP-N82657.NHS.UK</a></dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=41389">Dingle Park Practice</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">Park Street Liverpool Merseyside L8 6QP</dd><dt>Tel:</dt><dd>0151 295 9228</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=44309">Dovecot Health Centre</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">Dovecot Health Centre Longreach Road Liverpool L14 0NL</dd><dt>Tel:</dt><dd>0151 295 9440</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=38477">Dr Hedge - The Riverside Centre for Health</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">Park Street Liverpool Merseyside L8 6QP</dd><dt>Tel:</dt><dd>0151 295 9213</dd><dt>Email:</dt><dd class="email"><a href="mailto:RAGHV.HEGDE@GP-N82033.NHS.UK">RAGHV.HEGDE@GP-N82033.NHS.UK</a></dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=35317">Dr J W Roberts</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">Westminster Road Liverpool Merseyside L4 4PP</dd><dt>Tel:</dt><dd>0151 207 0813</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=42638">Dr Lunt - The Riverside Centre for Health</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">Park Street Liverpool Merseyside L8 6QP</dd><dt>Tel:</dt><dd>0151 706 8310</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=44571">Dr Razvi</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">172 Walton Village Liverpool Merseyside L4 6TW</dd><dt>Tel:</dt><dd>0151 525 1700</dd><dt>Email:</dt><dd class="email"><a href="mailto:TRACY.FAGAN@GP-N82051.NHS.UK">TRACY.FAGAN@GP-N82051.NHS.UK</a></dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=40341">Dunstan Village Group Practice</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">131 Earle Road Liverpool England - Uk L7 6HD</dd><dt>Tel:</dt><dd>0151 734 3535</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=41076">EARLE ROAD MEDICAL CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">131 Earle Road Liverpool Merseyside L7 6HD</dd><dt>Tel:</dt><dd>0151 734 3535</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=38080">EARLE ROAD MEDICAL CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">131 Earle Road Liverpool Merseyside L7 6HD</dd><dt>Tel:</dt><dd>0151 733 7172</dd><dt>Email:</dt><dd class="email"><a href="mailto:John.Bklakeborough@GP-N82065.NHS.UK">John.Bklakeborough@GP-N82065.NHS.UK</a></dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=44528">EATON ROAD SURGERY</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">276 Eaton Road West Derby Liverpool Merseyside L12 2AW</dd><dt>Tel:</dt><dd>0151 228 3768</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=38421">EDGE HILL HEALTH CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">Crosfield Road Liverpool Merseyside L7 5QL</dd><dt>Tel:</dt><dd>0151 295 3600</dd><dt>Email:</dt><dd class="email"><a href="mailto:Sue.Haton@GP-N82022.NHS.UK">Sue.Haton@GP-N82022.NHS.UK</a></dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=44272">ELLERGREEN MEDICAL CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">24 Carr Lane West Derby Liverpool Merseyside L11 2YA</dd><dt>Tel:</dt><dd>0151-256-9800</dd><dt>Email:</dt><dd class="email"><a href="mailto:Terry.Johnson@gp-n82-018.nhs.uk">Terry.Johnson@gp-n82-018.nhs.uk</a></dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=39224">EVERTON ROAD HEALTH CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">45 Everton Road Liverpool Merseyside L6 2EH</dd><dt>Tel:</dt><dd>0151 300 8200</dd><dt>Email:</dt><dd class="email"><a href="mailto:Carolyn.Brennan@gp-n82665.nhs.uk">Carolyn.Brennan@gp-n82665.nhs.uk</a></dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=41779">FAIRFIELD MEDICAL CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">2A Penvalley Crescent Liverpool Merseyside L6 3BY</dd><dt>Tel:</dt><dd>0151 285 4415</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=43659">FIR TREE DRIVE MEDICAL CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">Fir Tree Drive South Croxteth Park Liverpool England - Uk L12 0JE</dd><dt>Tel:</dt><dd>0151 548 6969</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=42923">FULWOOD GREEN MEDICAL CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">2a Jericho Lane Liverpool Merseyside L17 5AR</dd><dt>Tel:</dt><dd>0151 727 2440</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=38138">GARSTON FAMILY HEALTH CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">32 Church Road South Liverpool NHS Treatment Centre Liverpool Merseyside L19 2LW</dd><dt>Tel:</dt><dd>0151 295 9030</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=39084">GATEACRE BROW SURGERY</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">256 Hunts Cross Avenue Liverpool Merseyside L25 8QT</dd><dt>Tel:</dt><dd>0151 428 1452</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=35516">GATEACRE BROW SURGERY</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">1 Gateacre Brow Liverpool Merseyside L25 3PA</dd><dt>Tel:</dt><dd>0151 428 1851</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=41217">GATEACRE MEDICAL CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">49 Belle Vale Road Liverpool Merseyside L25 2PA</dd><dt>Tel:</dt><dd>0151 487 8660</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=39554">GILLMOSS MEDICAL CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">48 Petherick Road Croxteth Liverpool L11 0AG</dd><dt>Tel:</dt><dd>0151 546 3867</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=40855">GRASSENDALE MEDICAL PRACTICE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">23 Darby Road Liverpool Merseyside L19 9BP</dd><dt>Tel:</dt><dd>0151 427 1214</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=36751">GREAT HOMER STREET MEDICAL CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">32 Conway Street Everton Liverpool Liverpool L5 3SF</dd><dt>Tel:</dt><dd>0151 207 8268</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=38638">GREEN LANE MEDICAL CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">15 Green Lane Stoneycroft Liverpool Merseyside L13 7DY</dd><dt>Tel:</dt><dd>0151 228 9101</dd><dt>Email:</dt><dd class="email"><a href="mailto:GLMC@BT.Internet.com">GLMC@BT.Internet.com</a></dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=40396">GREENBANK DRIVE SURGERY</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">8 Greenbank Drive Sefton Park Liverpool Merseyside L17 1AW</dd><dt>Tel:</dt><dd>0151 733 5703</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=44467">GREENBANK ROAD SURGERY</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">1b Greenbank Road Liverpool Merseyside L18 1HG</dd><dt>Tel:</dt><dd>0151 733 3224</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=45042">HORNSPIT MEDICAL CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">Hornspit Lane West Derby Liverpool L12 5LT</dd><dt>Tel:</dt><dd>0151 256 5755</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=35875">HUNTS CROSS HEALTH CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">70 Hillfoot Road Liverpool Merseyside L25 0ND</dd><dt>Tel:</dt><dd>0151 486 1428</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=39153">ISLINGTON SQUARE SURGERY</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">3 Islington Square Liverpool Merseyside L3 8DD</dd><dt>Tel:</dt><dd>0151 207 0848</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=42204">JUBILEE MEDICAL CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">52 Croxteth Hall Lane Croxteth Liverpool L11 4UG</dd><dt>Tel:</dt><dd>0151 546 3956</dd><dt>Email:</dt><dd class="email"><a href="mailto:jubilee@livgp.nhs.uk">jubilee@livgp.nhs.uk</a></dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=44413">KENSINGTON PARK GENERAL PRACTICE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">Jubilee Drive Liverpool Merseyside L7 8SJ</dd><dt>Tel:</dt><dd>0151 285 4450</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=40406">KIRKDALE MEDICAL CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">14 Waller Close Liverpool Merseyside L4 4QJ</dd><dt>Tel:</dt><dd>0151 207 0950</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=37877">KNOTTY ASH MEDICAL CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">411/413 East Prescot Road Knotty Ash Liverpool L14 2DE</dd><dt>Tel:</dt><dd>0151 228 4369</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=40975">LANCE LANE MEDICAL CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">19 Lance Lane Liverpool Merseyside L15 6TS</dd><dt>Tel:</dt><dd>0151 737 2882</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=44527">LANGBANK MEDICAL CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">Broad Lane Norris Green Liverpool Merseyside L11 1AD</dd><dt>Tel:</dt><dd>0151 226 1976</dd><dt>Email:</dt><dd class="email"><a href="mailto:Mary.Creer@gp-N82019.nhs.uk">Mary.Creer@gp-N82019.nhs.uk</a></dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=41064">LONG LANE MEDICAL CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">Long Lane Walton Liverpool Merseyside L9 6DQ</dd><dt>Tel:</dt><dd>0151 530 1009</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=38041">MARGARET THOMPSON MEDICAL CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">105 East Millwood Road Liverpool Merseyside L24 6TH</dd><dt>Tel:</dt><dd>0151-425-3331</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=35798">MARYBONE HEALTH CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">Unit 1  2 Vauxhall Road Islington Liverpool L3 2BG</dd><dt>Tel:</dt><dd>0151 330 8200</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=39942">MATHER AVENUE SURGERY</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">584 Mather Avenue Liverpool Merseyside L19 4UG</dd><dt>Tel:</dt><dd>0151 427 6239</dd><dt>Email:</dt><dd class="email"><a href="mailto:Ida.Ellwood@gp-N82035.nhs.uk">Ida.Ellwood@gp-N82035.nhs.uk</a></dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=41270">Mere Lane Group Practice</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">Mere Lane Neighbourhood Health Centre 49-51 Mere Lane Liverpool L5 0QW</dd><dt>Tel:</dt><dd>0151 295 9620</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=39667">MERSEY VIEW SURGERY</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">45 Everton Road Liverpool England - Uk L6 2EH</dd><dt>Tel:</dt><dd>0151 300 8232</dd><dt>Email:</dt><dd class="email"><a href="mailto:enquiries.merseyviewsurgery@nhs.net">enquiries.merseyviewsurgery@nhs.net</a></dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=36429">MOSS WAY SURGERY</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">51-53 Moss Way Croxteth Liverpool L11 0BL</dd><dt>Tel:</dt><dd>0151 549 2127</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=36762">NETHERLEY HEALTH CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">Middlemass Hey Netherley Liverpool L27 7AF</dd><dt>Tel:</dt><dd>0151 234 1240</dd><dt>Email:</dt><dd class="email"><a href="mailto:Netherlery.Practice@gp-n82036.nhs.uk">Netherlery.Practice@gp-n82036.nhs.uk</a></dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=41640">OAKVALE MEDICAL CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">The Fiveways Centre 215 Childwall Road Liverpool Merseyside L15 6UT</dd><dt>Tel:</dt><dd>0151 295 9330</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=40965">OLD SWAN HEALTH CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">Old Swan Crystal Close Liverpool Merseyside L13 2GA</dd><dt>Tel:</dt><dd>0151-285-3737/3738</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=35813">PARK VIEW MEDICAL CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">Orphan Drive Tuebrook Liverpool L6 7UN</dd><dt>Tel:</dt><dd>0151 330 8929</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=38782">PICTON CHILDREN'S AND MEDICAL CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">137 Earle Road Liverpool Merseyside L8 7QL</dd><dt>Tel:</dt><dd>0151 295 3377</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=43652">Picton Medical &amp; Children Centre</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">137 Earle Road Liverpool Merseyside L7 6HD</dd><dt>Tel:</dt><dd>0151 295 3333</dd><dt>Email:</dt><dd class="email"><a href="mailto:Pushpa.Yadav@gp-n8266.nhs.uk">Pushpa.Yadav@gp-n8266.nhs.uk</a></dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=41790">POULTER ROAD MEDICAL CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">34 Poulter Road Fazakerley Liverpool L9 0HJ</dd><dt>Tel:</dt><dd>0151 525 5792</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=37495">PRINCES PARK HEALTH CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">Bentley Road Liverpool Merseyside L8 0SY</dd><dt>Tel:</dt><dd>0151 2959222</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=36532">PRIORY MEDICAL CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">Belmont Grove Liverpool Merseyside L6 4EW</dd><dt>Tel:</dt><dd>0151 260 9119</dd><dt>Email:</dt><dd class="email"><a href="mailto:chris.riley@livgp.nhs.uk">chris.riley@livgp.nhs.uk</a></dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=39392">QUEENS DRIVE SURGERY</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">73 Queens Drive Mossley Hill Liverpool Merseyside L18 2DU</dd><dt>Tel:</dt><dd>0151 733 2812</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=36101">ROCK COURT SURGERY</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">4 Crystal Close Liverpool Merseyside L13 2GA</dd><dt>Tel:</dt><dd>0151 228 0672</dd><dt>Email:</dt><dd class="email"><a href="mailto:Mary.Wade@GP-N82058.NHS.UK">Mary.Wade@GP-N82058.NHS.UK</a></dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=44165">Rocky Lane Medical Centre</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">80 Rocky Lane Liverpool Merseyside L16 1JD</dd><dt>Tel:</dt><dd>0151 295 3965</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=36975">Ropewalks General Practice</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">26 Argyle Street Liverpool Merseyside L1 5DL</dd><dt>Tel:</dt><dd>0151 285 3500</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=39145">RUTHERFORD MEDICAL CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">1 Rutherford Road Mossley Hill Liverpool Merseyside L18 0HJ</dd><dt>Tel:</dt><dd>0151 722 1803</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=36436">SANDRINGHAM MEDICAL CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">1a Aigburth Road Liverpool Merseyside L17 4JP</dd><dt>Tel:</dt><dd>0151 727 1382</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=45097">SEFTON PARK MEDICAL CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">Smithdown Road Liverpool Merseyside L15 2LQ</dd><dt>Tel:</dt><dd>0151 295 8700</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=36550">SMITHDOWN PLACE SURGERY</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">7 Smithdown Place Liverpool Merseyside L15 9EH</dd><dt>Tel:</dt><dd>0151 733 2800</dd><dt>Email:</dt><dd class="email"><a href="mailto:Joan.Stevenson@gp-n82026.nhs.uk">Joan.Stevenson@gp-n82026.nhs.uk</a></dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=43649">SPEKE HEALTH CENTRE (Choudhary P Dr &amp; Dr A Singh)</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">75 South Parade Liverpool Merseyside L24 2XP</dd><dt>Tel:</dt><dd>0151 295 8810</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=43944">Speke Neighbourhood Health Centre (Dr K R Mangarai)</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">SPEKE NEIGHBOURHOOD HEALTH CENTRE 75 SOUTH PARADE LIVERPOOL L24 2SF</dd><dt>Tel:</dt><dd>0151 295 8830</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=39587">SPEKE NEIGHBOURHOOD HEALTH CENTRE (Thakur SC Dr)</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">75 South Parade Liverpool Merseyside L24 2SF</dd><dt>Tel:</dt><dd>0151 295 8899</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=39676">ST JAMES HEALTH CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">29 Great George Square Liverpool Merseyside L1 5DZ</dd><dt>Tel:</dt><dd>0151 295 3800</dd><dt>Email:</dt><dd class="email"><a href="mailto:stjames@livgp.nhs.uk">stjames@livgp.nhs.uk</a></dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=36209">STANLEY MEDICAL CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">60 Stanley Road Kirkdale Liverpool Merseyside L5 2QA</dd><dt>Tel:</dt><dd>0151 207 0126</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=44422">STANLEY MEDICAL CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">60 Stanley Road Kirkdale Liverpool Merseyside L5 2QA</dd><dt>Tel:</dt><dd>0151 207 1076</dd><dt>Email:</dt><dd class="email"><a href="mailto:S.Sharma@GP.N82060.nhs.uk">S.Sharma@GP.N82060.nhs.uk</a></dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=37961">STONEYCROFT MEDICAL CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">Stoneville Road Liverpool Merseyside L13 6QD</dd><dt>Tel:</dt><dd>0151 228 1138</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=36812">STOPGATE LANE MEDICAL CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">6 Stopgate Lane Walton Liverpool Merseyside L9 6AP</dd><dt>Tel:</dt><dd>0151-525-1298</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=37506">STORRSDALE MEDICAL CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">1 Storrsdale Road Liverpool Merseyside L18 7JY</dd><dt>Tel:</dt><dd>0151 724 2396</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=41345">Student Health Services</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">Student Services Centre 150 Mount Pleasant Liverpool Merseyside L69 3GD</dd><dt>Tel:</dt><dd>0151 285 4578</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=43144">THE ASH SURGERY</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">1 Ashfield Road Liverpool Merseyside L17 0BY</dd><dt>Tel:</dt><dd>0151 727 1155</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=36852">THE ELMS MEDICAL CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">The Elms Medical Centre 3 The Elms Dingle Liverpool Merseyside L8 3SS</dd><dt>Tel:</dt><dd>0151 727 5555</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=44819">THE GREY ROAD SURGERY</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">Breeze Hill Neighbourhood Health Centre 3 Rice Lane Liverpool Merseyside L9 1AD</dd><dt>Tel:</dt><dd>0151 295 3444</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=37646">The Old Roan Surgery</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">Oriel Drive Aintree Liverpool Liverpool L10 6NJ</dd><dt>Tel:</dt><dd>0151 295 8350</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=44930">THE ORRELL PARK SURGERY</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">46 Moss Lane Orrell Park Liverpool Liverpool L9 8AL</dd><dt>Tel:</dt><dd>0151 295 8350</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=39690">The Practice Robson Street</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">Mere Lane Neighbourhood Health Centre 49-51 Mere Lane Liverpool Merseyside L5 0QW</dd><dt>Tel:</dt><dd>0151 295 9630</dd><dt>Email:</dt><dd class="email"><a href="mailto:robsonstreetadmin@liverpoolpct.nhs.uk">robsonstreetadmin@liverpoolpct.nhs.uk</a></dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=43216">THE SURGERY</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">339 Queens Drive Walton Liverpool Merseyside L4 8SJ</dd><dt>Tel:</dt><dd>0151 226 6024</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=43618">THE VALLEY MEDICAL CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">75 Hartsbourne Avenue Liverpool Merseyside L25 1RY</dd><dt>Tel:</dt><dd>0151 722 2744</dd><dt>Email:</dt><dd class="email"><a href="mailto:Elaine.McNicol@GP-n82092.nhs.uk">Elaine.McNicol@GP-n82092.nhs.uk</a></dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=43482">THE VILLAGE MEDICAL CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">20 Quarry Street Liverpool Merseyside L25 6HE</dd><dt>Tel:</dt><dd>0151 428 4282</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=35461">The Village Surgery</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">32 Church Road Garston Liverpool Merseyside L19 2LW</dd><dt>Tel:</dt><dd>0151 295 9021</dd><dt>Email:</dt><dd class="email"><a href="mailto:Tracey.Fleming@GP-N82034.NHS.UK">Tracey.Fleming@GP-N82034.NHS.UK</a></dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=44296">TOWNSEND MEDICAL CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">98 Townsend Lane Anfield Liverpool L6 0BB</dd><dt>Tel:</dt><dd>0151 295 9510</dd><dt>Email:</dt><dd class="email"><a href="mailto:pauline.tudor@livgp.nhs.uk">pauline.tudor@livgp.nhs.uk</a></dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=41848">VAUXHALL PRIMARY HEALTH CARE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">Limekiln Lane Vauxhall Liverpool L5 8XR</dd><dt>Tel:</dt><dd>0151 295 3737</dd><dt>Email:</dt><dd class="email"><a href="mailto:vphc@livgp.nhs.uk">vphc@livgp.nhs.uk</a></dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=41374">WALTON MEDICAL CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">Breeze Hill Neighbourhood Health Centre 1-3 Rice Lane Walton Liverpool L9 1AD</dd><dt>Tel:</dt><dd>0151 295 3434</dd><dt>Email:</dt><dd class="email"><a href="mailto:waltonmedicalcentre@livgp.nhs.uk">waltonmedicalcentre@livgp.nhs.uk</a></dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=43212">WALTON VILLAGE MEDICAL CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">172 Walton Village Liverpool Merseyside L4 6TW</dd><dt>Tel:</dt><dd>0151-525-1111</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=41930">WEST SPEKE HEALTH CENTRE </a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">Blacklock Hall Road Liverpool Merseyside L24 3TY</dd><dt>Tel:</dt><dd>0151 234 1610</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=42028">WESTMINSTER MEDICAL CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">Aldams Grove Liverpool Merseyside L4 3TT</dd><dt>Tel:</dt><dd>0151 922 3510</dd><dt>Email:</dt><dd class="email"><a href="mailto:Samantha.Parsons@gp-n82049.nhs.uk">Samantha.Parsons@gp-n82049.nhs.uk</a></dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=35814">WESTMORELAND GENERAL PRACTICE CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">Fazakerley Hospital Lower Lane Liverpool Merseyside L9 7AL</dd><dt>Tel:</dt><dd>0151 525 6286</dd><dt>Email:</dt><dd class="email"><a href="mailto:Francine.Barrow@AP-N82037.NHS.UK">Francine.Barrow@AP-N82037.NHS.UK</a></dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=39657">WOOLTON HOUSE MEDICAL CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">4-6 Woolton Street Woolton Liverpool L25 5JA</dd><dt>Tel:</dt><dd>0151 428 4184</dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+					<div class=""><div class="panel-content">
+
+    <div class="pad clear border child-org-item">
+        <h3><a href="/Services/GP/Overview/DefaultView.aspx?id=35744">YEW TREE CENTRE</a></h3>
+        <dl class="contact-details"><dt class="hidden">Address:</dt><dd class="addrss">Berryford Road Liverpool Merseyside L14 4ED</dd><dt>Tel:</dt><dd>0151 296 7990</dd><dt>Email:</dt><dd class="email"><a href="mailto:S.Askari@GP-N82002.NHS.UK">S.Askari@GP-N82002.NHS.UK</a></dd></dl>
+    </div>
+
+
+
+</div></div>
+			
+			
+
+    
+
+    
+        
+</div>
+
+
+            </div>
+            <div id="ctl00_ctl00_ctl00_PlaceHolderMain_contentColumn2" class="col two-sm last">
+                
+  
+    <div class="panel">
+	<div class="panel-content">
+		<div class="pad clear">
+			
+
+<div class="compare-hospitals clear">
+
+    <script type="text/javascript" src="/includes/jquery.autocomplete.js"></script>
+    <script type="text/javascript" src="/includes/chooseservices.js"></script>
+    <script type="text/javascript" src="/includes/jquery.rememberpostcode.js"></script>
+    <div id="divColWidgets" class="clear">
+      <div id="ctl00_ctl00_ctl00_PlaceHolderMain_column2Content_column2Content_FindServicesControl_divColServices" class="panel find-hospital col-one">
+        <div class="panel-top" id="hubsearch">
+          
+            <h2>Find and choose GPs</h2>
+          
+          <div class="message">
+            <img src="/img/pims/panel-its-your-choice.gif" alt="its your choice" />
+            <h3>Did you know...</h3>
+            <p>You can choose anywhere in England for an appointment with a specialist?</p>
+          </div>
+          <fieldset id="main-search">
+          <legend class="hidden">Find and choose GPs</legend>
+          <div id="ctl00_ctl00_ctl00_PlaceHolderMain_column2Content_column2Content_FindServicesControl_pnlSearch">
+				    
+            <div class="hub-search-box clear" id="hub-search-box">
+              <div class="hub-search">
+                <label for="_txtSearch">Postcode, location or GP name</label>
+                <input type="text" id="_txtSearch" name="_txtSearch" class="service-search" maxlength="100" 
+                    value="postcode, location or name" />
+              </div>
+              <div class="row clear" id="_ucColumnWidget_divPostCode">
+                <span class="chk-postcode clear" id="chk-postcode">
+                    <input type="hidden" id="_chkRemPostCode" name="_chkRemPostCode" value="False" />
+                </span>
+              </div>
+
+              <div class="row clear" id="_ucColumnWidget_divAtoZLink" >
+                <p id="pAtoZLink"><a id="TreatmentAtoZLink" href="/ServiceDirectories/Pages/ServiceSearchTreatmentAtoZ.aspx">Select from our treatment and condition list</a></p>
+                <input type="hidden" id="_ucColWidget_txtTreatmentInput" name="_ucColWidget_txtTreatmentInput" value="e.g. hip replacement or diabetes" />   
+              </div>
+              <div class="hub-submit">
+                <div class="submit-container">
+                  <div class="submit">
+                    <input type="submit" value="Find GPs" class="search" />
+                    <!--[if IE]><label for="hidden-input" class="hidden"><input type="text" id="hidden-input" class="hidden" disabled="disabled" size="1" /></label><![endif]-->
+                  </div>
+                </div>
+              </div>
+
+              <div id="hub-compare-container" class="clear hidden">
+                  <div class="compare-box">
+                    <div class="top">
+                        <div class="border-t">
+                            <span class="crnr tl"></span>
+                            <span class="crnr tr"></span>
+                        </div>
+                    </div>
+                    <div class="middle">
+                        <div class="pad-rl border-rl">
+                        </div>
+                    </div>
+                    <div class="bottom">
+                        <div class="border-b">
+                            <span class="crnr br"></span>
+                            <span class="crnr bl"></span>
+                        </div>
+                    </div>
+                  </div>
+              </div>
+              <input type="hidden" id="_ucColWidget_HiddenTreatmentId" name="_ucColWidget_HiddenTreatmentId"/>
+            </div>
+          
+			</div>
+          </fieldset>  
+        </div>
+      </div>
+    </div>
+
+</div><!-- end compare-hospitals -->
+		</div>
+	</div>
+</div>
+    
+
+
+            </div>
+            <div class="col tertiary-content">
+                
+  
+
+            </div>
+            <div class="col three-sm">
+                
+
+<div class="module" id="moduleeda9bb6d216e4028811d27fab294ae92">
+  
+<div class="panel panel-nonedit module panel-profile-site">
+  
+  <div class="panel-content">
+    <div class="pad clear">
+      
+
+    
+    </div>  
+  </div>
+</div>
+
+   
+      
+      <div class="last-updated" visible="true">
+          <p>Last updated on 12 November 2010.</p>
+          <p>Information supplied by Liverpool PCT</p>
+      </div>
+      
+</div>
+
+
+
+
+
+                
+            </div>
+            <div class="col two-sm serv-info-qual-wrap last">
+                
+
+<p class="serv-info-qual"><a href="/aboutNHSChoices/Pages/InformationQualityForm.aspx?PageTitle=GPs+-+Liverpool+PCT+-+NHS+Choices&amp;Address=1+Arthouse+Square%2c67-69+Seel+Street%2c%2cLiverpool%2cMerseyside%2cL1+4AZ&amp;Name=Liverpool+PCT">Report an issue with the information on this page</a></p>
+            </div>
+        </div>
+    </div>
+
+  </div>
+  <!-- Footer starts here.... -->
+  
+    <div class="footer clear">
+
+        <ul class="footer-tabs clear">
+            <li><a href="#footer-tab1"><span class="crnr tl"></span><span class="footer-title">NHS Choices information</span><span class="crnr tr"></span></a></li>
+            <!-- <li><a href="#footer-tab2"><span class="crnr tl"></span><span class="footer-title">Choices e-newsletters</span><span class="crnr tr"></span></a></li> -->
+            <li><a href="#footer-tab3"><span class="crnr tl"></span><span class="footer-title">Your pages</span><span class="crnr tr"></span></a></li>
+        </ul>
+
+        <div id="footer-tab1" class="footer-tab1 footer-tab-content clear">
+            <div id="ctl00_ctl00_ctl00_footer_ucPersonalisationFooter_SitePolicies" class="footer-list">
+	
+<h2>Site policies</h2>
+<ul class="info">
+<li><a href="/aboutNHSChoices/aboutnhschoices/termsandconditions/Pages/termsandconditions.aspx" 
+    accesskey ="8"
+  rel='nofollow' onclick="dcsMultiTrack('DCSext.FooterClickSection','Site policies','DCSext.FooterClickUrl','/aboutNHSChoices/aboutnhschoices/termsandconditions/Pages/termsandconditions.aspx','WT.dl','121')" onkeypress="this.onclick()">Terms and conditions</a></li>
+<li><a href="/aboutNHSChoices/aboutnhschoices/Aboutus/Pages/Editorialpolicy.aspx" 
+  rel='nofollow' onclick="dcsMultiTrack('DCSext.FooterClickSection','Site policies','DCSext.FooterClickUrl','/aboutNHSChoices/aboutnhschoices/Aboutus/Pages/Editorialpolicy.aspx','WT.dl','121')" onkeypress="this.onclick()">Editorial policy</a></li>
+<li><a href="/aboutNHSChoices/aboutnhschoices/termsandconditions/Pages/commentspolicy.aspx" 
+  rel='nofollow' onclick="dcsMultiTrack('DCSext.FooterClickSection','Site policies','DCSext.FooterClickUrl','/aboutNHSChoices/aboutnhschoices/termsandconditions/Pages/commentspolicy.aspx','WT.dl','121')" onkeypress="this.onclick()">Comments policy</a></li>
+<li><a href="/aboutNHSChoices/professionals/syndication/Pages/Webservices.aspx" 
+  rel='nofollow' onclick="dcsMultiTrack('DCSext.FooterClickSection','Site policies','DCSext.FooterClickUrl','/aboutNHSChoices/professionals/syndication/Pages/Webservices.aspx','WT.dl','121')" onkeypress="this.onclick()">Syndication</a></li>
+<li><a href="/aboutNHSChoices/aboutnhschoices/termsandconditions/Pages/Privacypolicy.aspx" 
+  rel='nofollow' onclick="dcsMultiTrack('DCSext.FooterClickSection','Site policies','DCSext.FooterClickUrl','/aboutNHSChoices/aboutnhschoices/termsandconditions/Pages/Privacypolicy.aspx','WT.dl','121')" onkeypress="this.onclick()">Privacy policy</a></li>
+<li><a href="/aboutNHSChoices/aboutnhschoices/termsandconditions/Pages/cookies-policy.aspx" 
+  rel='nofollow' onclick="dcsMultiTrack('DCSext.FooterClickSection','Site policies','DCSext.FooterClickUrl','/aboutNHSChoices/aboutnhschoices/termsandconditions/Pages/cookies-policy.aspx','WT.dl','121')" onkeypress="this.onclick()">Cookies policy</a></li>
+<li><a href="/aboutNHSChoices/aboutnhschoices/Aboutus/Pages/LinkingtoChoices.aspx" 
+  rel='nofollow' onclick="dcsMultiTrack('DCSext.FooterClickSection','Site policies','DCSext.FooterClickUrl','/aboutNHSChoices/aboutnhschoices/Aboutus/Pages/LinkingtoChoices.aspx','WT.dl','121')" onkeypress="this.onclick()">Links policy</a></li>
+<li><a href="/aboutNHSChoices/aboutnhschoices/Personalaccounts/Pages/NHSChoicesaccount.aspx" 
+  rel='nofollow' onclick="dcsMultiTrack('DCSext.FooterClickSection','Site policies','DCSext.FooterClickUrl','/aboutNHSChoices/aboutnhschoices/Personalaccounts/Pages/NHSChoicesaccount.aspx','WT.dl','121')" onkeypress="this.onclick()">Personal accounts</a></li>
+<li><a href="/accessibility/Pages/Accessibility.aspx " 
+    accesskey ="0"
+  rel='nofollow' onclick="dcsMultiTrack('DCSext.FooterClickSection','Site policies','DCSext.FooterClickUrl','/accessibility/Pages/Accessibility.aspx ','WT.dl','121')" onkeypress="this.onclick()">Accessibility </a></li>
+<li><a href="/choices/pages/sitemap.aspx" 
+    accesskey ="3"
+  rel='nofollow' onclick="dcsMultiTrack('DCSext.FooterClickSection','Site policies','DCSext.FooterClickUrl','/choices/pages/sitemap.aspx','WT.dl','121')" onkeypress="this.onclick()">Sitemap</a></li>
+</ul>
+
+
+</div><div id="ctl00_ctl00_ctl00_footer_ucPersonalisationFooter_OtherNHSSites" class="footer-list">
+	
+<h2>Other NHS sites</h2>
+<ul class="info">
+<li><a href="http://www.chooseandbook.nhs.uk/" 
+  rel='nofollow' onclick="dcsMultiTrack('DCSext.FooterClickSection','Other NHS sites','DCSext.FooterClickUrl','http://www.chooseandbook.nhs.uk/','WT.dl','121')" onkeypress="this.onclick()">Choose and Book</a></li>
+<li><a href="https://www.healthspace.nhs.uk" 
+  rel='nofollow' onclick="dcsMultiTrack('DCSext.FooterClickSection','Other NHS sites','DCSext.FooterClickUrl','https://www.healthspace.nhs.uk','WT.dl','121')" onkeypress="this.onclick()">HealthSpace</a></li>
+<li><a href="http://www.nhscarerecords.nhs.uk/" 
+  rel='nofollow' onclick="dcsMultiTrack('DCSext.FooterClickSection','Other NHS sites','DCSext.FooterClickUrl','http://www.nhscarerecords.nhs.uk/','WT.dl','121')" onkeypress="this.onclick()">Summary Care Records</a></li>
+<li><a href="http://www.nhsdirect.nhs.uk/" 
+  rel='nofollow' onclick="dcsMultiTrack('DCSext.FooterClickSection','Other NHS sites','DCSext.FooterClickUrl','http://www.nhsdirect.nhs.uk/','WT.dl','121')" onkeypress="this.onclick()">NHS Direct</a></li>
+<li><a href="http://www.show.scot.nhs.uk/ " 
+  rel='nofollow' onclick="dcsMultiTrack('DCSext.FooterClickSection','Other NHS sites','DCSext.FooterClickUrl','http://www.show.scot.nhs.uk/ ','WT.dl','121')" onkeypress="this.onclick()">NHS Scotland</a></li>
+<li><a href="http://www.hscni.net/  " 
+  rel='nofollow' onclick="dcsMultiTrack('DCSext.FooterClickSection','Other NHS sites','DCSext.FooterClickUrl','http://www.hscni.net/  ','WT.dl','121')" onkeypress="this.onclick()">NHS Northern Ireland</a></li>
+<li><a href="http://www.nhsdirect.wales.nhs.uk/" 
+  rel='nofollow' onclick="dcsMultiTrack('DCSext.FooterClickSection','Other NHS sites','DCSext.FooterClickUrl','http://www.nhsdirect.wales.nhs.uk/','WT.dl','121')" onkeypress="this.onclick()">NHS Wales</a></li>
+<li><a href="http://www.nhscareers.nhs.uk/" 
+  rel='nofollow' onclick="dcsMultiTrack('DCSext.FooterClickSection','Other NHS sites','DCSext.FooterClickUrl','http://www.nhscareers.nhs.uk/','WT.dl','121')" onkeypress="this.onclick()">NHS Careers</a></li>
+<li><a href="/aboutNHSChoices/professionals/innovationanddevelopment/Pages/training.aspx " 
+  rel='nofollow' onclick="dcsMultiTrack('DCSext.FooterClickSection','Other NHS sites','DCSext.FooterClickUrl','/aboutNHSChoices/professionals/innovationanddevelopment/Pages/training.aspx ','WT.dl','121')" onkeypress="this.onclick()">NHS Choices Training</a></li>
+<li><a href="http://www.dh.gov.uk/en/index.htm " 
+  rel='nofollow' onclick="dcsMultiTrack('DCSext.FooterClickSection','Other NHS sites','DCSext.FooterClickUrl','http://www.dh.gov.uk/en/index.htm ','WT.dl','121')" onkeypress="this.onclick()">Department of Health</a></li>
+</ul>
+
+
+</div><div id="ctl00_ctl00_ctl00_footer_ucPersonalisationFooter_AbouttheNHS" class="footer-list">
+	
+<h2>About the NHS</h2>
+<ul class="info">
+<li><a href="/NHSEngland/thenhs/nhshistory/Pages/NHShistory1948.aspx" 
+  rel='nofollow' onclick="dcsMultiTrack('DCSext.FooterClickSection','About the NHS','DCSext.FooterClickUrl','/NHSEngland/thenhs/nhshistory/Pages/NHShistory1948.aspx','WT.dl','121')" onkeypress="this.onclick()">History of the NHS</a></li>
+<li><a href="/NHSEngland/AboutNHSservices/Pages/NHSServices.aspx" 
+  rel='nofollow' onclick="dcsMultiTrack('DCSext.FooterClickSection','About the NHS','DCSext.FooterClickUrl','/NHSEngland/AboutNHSservices/Pages/NHSServices.aspx','WT.dl','121')" onkeypress="this.onclick()">About NHS services</a></li>
+<li><a href="/choiceinthenhs" 
+  rel='nofollow' onclick="dcsMultiTrack('DCSext.FooterClickSection','About the NHS','DCSext.FooterClickUrl','/choiceinthenhs','WT.dl','121')" onkeypress="this.onclick()">Choice in the NHS</a></li>
+<li><a href="/aboutNHSChoices/professionals/healthandcareprofessionals/quality-accounts/Pages/quality-accounts-2011-2012.aspx" 
+  rel='nofollow' onclick="dcsMultiTrack('DCSext.FooterClickSection','About the NHS','DCSext.FooterClickUrl','/aboutNHSChoices/professionals/healthandcareprofessionals/quality-accounts/Pages/quality-accounts-2011-2012.aspx','WT.dl','121')" onkeypress="this.onclick()">Quality accounts</a></li>
+<li><a href="/NHSEngland/thenhs/records/proms/Pages/aboutproms.aspx" 
+  rel='nofollow' onclick="dcsMultiTrack('DCSext.FooterClickSection','About the NHS','DCSext.FooterClickUrl','/NHSEngland/thenhs/records/proms/Pages/aboutproms.aspx','WT.dl','121')" onkeypress="this.onclick()">PROMs</a></li>
+<li><a href="/NHSEngland/links/Pages/links-make-it-happen.aspx" 
+  rel='nofollow' onclick="dcsMultiTrack('DCSext.FooterClickSection','About the NHS','DCSext.FooterClickUrl','/NHSEngland/links/Pages/links-make-it-happen.aspx','WT.dl','121')" onkeypress="this.onclick()">Local Involvement Networks (LINks)</a></li>
+</ul>
+
+
+</div><div id="ctl00_ctl00_ctl00_footer_ucPersonalisationFooter_OtherChannels" class="footer-list">
+	
+<h2>Other channels</h2>
+<ul class="info">
+<li><a href="http://twitter.com/nhschoices" 
+  rel='nofollow' onclick="dcsMultiTrack('DCSext.FooterClickSection','Other channels','DCSext.FooterClickUrl','http://twitter.com/nhschoices','WT.dl','121')" onkeypress="this.onclick()">Follow us on Twitter</a></li>
+<li><a href="http://www.facebook.com/nhschoices" 
+  rel='nofollow' onclick="dcsMultiTrack('DCSext.FooterClickSection','Other channels','DCSext.FooterClickUrl','http://www.facebook.com/nhschoices','WT.dl','121')" onkeypress="this.onclick()">Facebook</a></li>
+<li><a href="http://www.youtube.com/nhschoices" 
+  rel='nofollow' onclick="dcsMultiTrack('DCSext.FooterClickSection','Other channels','DCSext.FooterClickUrl','http://www.youtube.com/nhschoices','WT.dl','121')" onkeypress="this.onclick()">YouTube</a></li>
+<li><a href="/video/pages/MediaLibrary.aspx" 
+  rel='nofollow' onclick="dcsMultiTrack('DCSext.FooterClickSection','Other channels','DCSext.FooterClickUrl','/video/pages/MediaLibrary.aspx','WT.dl','121')" onkeypress="this.onclick()">Video library</a></li>
+<li><a href="/Pages/LinkListing.aspx" 
+  rel='nofollow' onclick="dcsMultiTrack('DCSext.FooterClickSection','Other channels','DCSext.FooterClickUrl','/Pages/LinkListing.aspx','WT.dl','121')" onkeypress="this.onclick()">Links library</a></li>
+</ul>
+
+
+</div><div id="ctl00_ctl00_ctl00_footer_ucPersonalisationFooter_Languages" class="footer-list">
+	
+<h2>Other Languages</h2>
+
+<span class="language-intro">Visit our </span><span class="language-intro"><a href="/aboutNHSChoices/aboutnhschoices/Aboutus/Pages/languageshub.aspx " rel='nofollow' onkeypress="this.onclick()">language section</a> for more health websites in foreign languages.</span>
+
+</div><div id="ctl00_ctl00_ctl00_footer_ucPersonalisationFooter_Contact" class="footer-list">
+	
+<h2>Contact NHS Choices</h2>
+<ul class="info">
+<li><a href="/aboutNHSChoices/Pages/ContactUs.aspx" 
+  rel='nofollow' onclick="dcsMultiTrack('DCSext.FooterClickSection','Contact NHS Choices','DCSext.FooterClickUrl','/aboutNHSChoices/Pages/ContactUs.aspx','WT.dl','121')" onkeypress="this.onclick()">Choices helpdesk</a></li>
+</ul>
+
+
+</div>
+        </div>
+
+        <!--
+        <div id="footer-tab2" class="footer-tab2 footer-tab-content clear">
+            <div id="ctl00_ctl00_ctl00_footer_ucPersonalisationFooter_ChoicesENewsletters">
+	
+<div class="footer-wrap clear"><div class="footer-box-wrap">
+<span class="crnr tl"></span><span class="crnr tr"></span>
+
+<div class="footer-box-content clear">
+<img src="/PublishingImages/PersonalisationModules/Modules/newsletterpromo.jpg" alt="$feature.FeatureMainImageAltText" />
+<h2>NHS Choices e-newsletters</h2>
+<p>We're changing the sign-up process for our newsletters and can't accept new subscribers right now. The service will resume in the near future</p>
+</div>
+
+<div class="footer-box-button-wrap">
+<div class="footer-box-button">
+<span class="crnr tl"></span><span class="crnr tr"></span>
+<p><span>NHS Choices e-newsletters</span> <a href="/aboutNHSChoices/aboutnhschoices/e-newsletters/Pages/newsletters-home.aspx"  rel='nofollow' onclick="dcsMultiTrack('DCSext.FooterClickSection','Choices e-newsletters','DCSext.FooterClickUrl','/aboutNHSChoices/aboutnhschoices/e-newsletters/Pages/newsletters-home.aspx','WT.dl','121')" onkeypress="this.onclick()"><span class="crnr tl"></span><span class="crnr tr"></span>NHS Choices e-newsletters<span class="crnr bl"></span><span class="crnr br"></span></a></p>
+<span class="crnr bl"></span><span class="crnr br"></span>
+</div>
+</div>
+
+<span class="crnr bl"></span><span class="crnr br"></span>
+</div>
+
+<div class="footer-col">
+<h2>Emails from NHS Choices</h2>
+<p>You can't sign up for our emails at the moment</p>
+
+<ul>
+</ul>
+</div>
+
+</div>
+
+
+</div>
+        </div>
+        -->
+
+        <div id="footer-tab3" class="footer-tab3 footer-tab-content clear">
+            <div id="ctl00_ctl00_ctl00_footer_ucPersonalisationFooter_PersonalisationFooterDefault1_YourPages">
+	
+<div class="footer-wrap your-pages clear">
+
+
+
+
+
+<div class="footer-box-wrap">
+<span class="crnr tl"></span><span class="crnr tr"></span>
+<div class="footer-box-content clear">
+<h2>Create an NHS Choices account</h2>
+<p>With an account you can keep track of pages on the site and save them to this tab, which you can access on every page when you are logged in.</p>
+<div class="footer-box-button-wrap clear">
+<div class="footer-box-button clear">
+<span class="crnr tl"></span><span class="crnr tr"></span>
+<p><a href="/Personalisation/Registration.aspx?ReturnUrl=" onclick="dcsMultiTrack('DCSext.FooterClickSection','Your pages','DCSext.FooterClickUrl','/Personalisation/Registration.aspx?ReturnUrl=','WT.dl','121')" onkeypress="this.onclick()"><span class="crnr tl"></span><span class="crnr tr"></span>Create account<span class="crnr bl"></span><span class="crnr br"></span></a></p>
+<span class="crnr bl"></span><span class="crnr br"></span>
+</div>
+</div>
+<p class="footer-login">Already have an account? <a href="/Personalisation/Login.aspx">Log in</a></p>
+</div>
+<span class="crnr bl"></span><span class="crnr br"></span>
+</div>
+
+
+
+
+
+
+
+
+
+<div class="footer-col">
+<ul>
+<li>
+<h3>Saved pages</h3>
+<p>Keep track of important pages</p>
+</li>
+<li>
+<h3>Recently visited pages</h3>
+<p>Easily find again pages you have been reading</p>
+</li>
+<li class="last">
+<h3>Pages you might like</h3>
+<p>Have pages recommended to you</p>
+</li>
+</ul>
+</div>
+
+
+</div>
+</div>
+        </div>
+
+        <div class="footer-logos clear">
+            <ul>
+                <li><span class="hidden">&ndash;</span><a href="http://www.gov.uk/"><img src="/img/gov-uk.gif" alt="Link to gov.uk &ndash; The new place to find government services and information" class="gov-uk" /></a></li>
+                <li><span class="hidden">&ndash;</span><a href="/aboutNHSChoices/aboutnhschoices/Aboutus/Pages/the-information-standard.aspx"><img src="/img/information-standards.gif" alt="The Information Standard - Certified member" /></a></li>
+            </ul>
+        </div>
+
+    </div>
+
+  <!-- Footer ends here.... -->
+  
+<script type="text/javascript">
+//<![CDATA[
+var keyValuePriorityTreatments =  new Array({id: 'Abortion', name: 'Abortion'}, {id: 'Abscess', name: 'Abscess'}, {id: 'Accident and emergency departments', name: 'Accident and emergency departments'}, {id: 'Accidents and first aid', name: 'Accidents and first aid'}, {id: 'Accidents to children in the home', name: 'Accidents to children in the home'}, {id: 'Acne', name: 'Acne'}, {id: 'Acoustic neuroma', name: 'Acoustic neuroma'}, {id: 'Actinomycosis', name: 'Actinomycosis'}, {id: 'Acupuncture', name: 'Acupuncture'}, {id: 'Addictions', name: 'Addictions'}, {id: 'Addison\'s disease', name: 'Addison\'s disease'}, {id: 'Adenoids and adenoidectomy', name: 'Adenoids and adenoidectomy'}, {id: 'Agoraphobia', name: 'Agoraphobia'}, {id: 'Air embolism', name: 'Air embolism'}, {id: 'Alcohol misuse', name: 'Alcohol misuse'}, {id: 'Allergies', name: 'Allergies'}, {id: 'Altitude sickness', name: 'Altitude sickness'}, {id: 'Alzheimer\'s disease', name: 'Alzheimer\'s disease'}, {id: 'Ambulance Service', name: 'Ambulance Service'}, {id: 'Amniocentesis', name: 'Amniocentesis'}, {id: 'Amoebiasis', name: 'Amoebiasis'}, {id: 'Anaemia', name: 'Anaemia'}, {id: 'Anaesthesia', name: 'Anaesthesia'}, {id: 'Anaesthetic local (D)', name: 'Anaesthetic local (D)'}, {id: 'Anaestheticgeneral (D)', name: 'Anaestheticgeneral (D)'}, {id: 'Anal fissure', name: 'Anal fissure'}, {id: 'Anal fistula', name: 'Anal fistula'}, {id: 'Anaphylaxis', name: 'Anaphylaxis'}, {id: 'Androgen insensitivity syndrome', name: 'Androgen insensitivity syndrome'}, {id: 'Aneurysm', name: 'Aneurysm'}, {id: 'Anger management', name: 'Anger management'}, {id: 'Angina', name: 'Angina'}, {id: 'Angioedema', name: 'Angioedema'}, {id: 'Angiography', name: 'Angiography'}, {id: 'Ankylosing spondylitis', name: 'Ankylosing spondylitis'}, {id: 'Anorexia nervosa', name: 'Anorexia nervosa'}, {id: 'Antacid drugs', name: 'Antacid drugs'}, {id: 'Antenatal Care', name: 'Antenatal Care'}, {id: 'Antenatal Care', name: 'Antenatal Care'}, {id: 'Antenatal health and care', name: 'Antenatal health and care'}, {id: 'Antenatal screening', name: 'Antenatal screening'}, {id: 'Anticoagulant drugs', name: 'Anticoagulant drugs'}, {id: 'Antidepressant drugs (D)', name: 'Antidepressant drugs (D)'}, {id: 'Antifungal drugs', name: 'Antifungal drugs'}, {id: 'Antihistamine drugs', name: 'Antihistamine drugs'}, {id: 'Anti-inflammatories non-steroidal', name: 'Anti-inflammatories non-steroidal'}, {id: 'Anxiety', name: 'Anxiety'}, {id: 'Aortic valve replacement', name: 'Aortic valve replacement'}, {id: 'Aphasia', name: 'Aphasia'}, {id: 'Appendicitis', name: 'Appendicitis'}, {id: 'Arthritis', name: 'Arthritis'}, {id: 'Arthroscopy of the knee', name: 'Arthroscopy of the knee'}, {id: 'Artificial insemination', name: 'Artificial insemination'}, {id: 'Asbestosis', name: 'Asbestosis'}, {id: 'Aspergillosis', name: 'Aspergillosis'}, {id: 'Asthma', name: 'Asthma'}, {id: 'Asthma - children', name: 'Asthma - children'}, {id: 'Astigmatism', name: 'Astigmatism'}, {id: 'Atherosclerosis', name: 'Atherosclerosis'}, {id: 'Athlete\'s foot', name: 'Athlete\'s foot'}, {id: 'Atrial fibrillation', name: 'Atrial fibrillation'}, {id: 'Attention deficit hyperactivity disorder', name: 'Attention deficit hyperactivity disorder'}, {id: 'Audiological  Medicine', name: 'Audiological  Medicine'}, {id: 'Autistic spectrum disorder', name: 'Autistic spectrum disorder'}, {id: 'Avian flu', name: 'Avian flu'}, {id: 'B12 deficiency', name: 'B12 deficiency'}, {id: 'Babies crying', name: 'Babies crying'}, {id: 'Babies weaning', name: 'Babies weaning'}, {id: 'Back pain', name: 'Back pain'}, {id: 'Bacterial vaginosis', name: 'Bacterial vaginosis'}, {id: 'Bad breath', name: 'Bad breath'}, {id: 'Baker\'s cyst', name: 'Baker\'s cyst'}, {id: 'Balanitis', name: 'Balanitis'}, {id: 'Barium enema', name: 'Barium enema'}, {id: 'Bedwetting', name: 'Bedwetting'}, {id: 'Behcet\'s disease', name: 'Behcet\'s disease'}, {id: 'Bell\'s palsy', name: 'Bell\'s palsy'}, {id: 'Bicarbonate (L)', name: 'Bicarbonate (L)'}, {id: 'Binge eating', name: 'Binge eating'}, {id: 'Biopsy', name: 'Biopsy'}, {id: 'Bipolar disorder', name: 'Bipolar disorder'}, {id: 'Birthmarks', name: 'Birthmarks'}, {id: 'Bites', name: 'Bites'}, {id: 'Bites insect', name: 'Bites insect'}, {id: 'Bites snake', name: 'Bites snake'}, {id: 'Bladder stones', name: 'Bladder stones'}, {id: 'Bleeding gums', name: 'Bleeding gums'}, {id: 'Blepharitis', name: 'Blepharitis'}, {id: 'Blisters', name: 'Blisters'}, {id: 'Blood donation', name: 'Blood donation'}, {id: 'Blood gases test (L)', name: 'Blood gases test (L)'}, {id: 'Blood groups', name: 'Blood groups'}, {id: 'Blood poisoning', name: 'Blood poisoning'}, {id: 'Blood pressure (high)', name: 'Blood pressure (high)'}, {id: 'Blood pressure (low)', name: 'Blood pressure (low)'}, {id: 'Blood tests', name: 'Blood tests'}, {id: 'Blood transfusion', name: 'Blood transfusion'}, {id: 'Blushing', name: 'Blushing'}, {id: 'Body odour', name: 'Body odour'}, {id: 'Body piercing', name: 'Body piercing'}, {id: 'Boils', name: 'Boils'}, {id: 'Bone cyst', name: 'Bone cyst'}, {id: 'Bone marrow donation', name: 'Bone marrow donation'}, {id: 'Bone marrow transplant', name: 'Bone marrow transplant'}, {id: 'Bottle feeding', name: 'Bottle feeding'}, {id: 'Brain abscess', name: 'Brain abscess'}, {id: 'Brain death', name: 'Brain death'}, {id: 'Brain tumour', name: 'Brain tumour'}, {id: 'Breast abscess', name: 'Breast abscess'}, {id: 'Breast implants', name: 'Breast implants'}, {id: 'Breast lump', name: 'Breast lump'}, {id: 'Breast reduction', name: 'Breast reduction'}, {id: 'Breastfeeding', name: 'Breastfeeding'}, {id: 'Breathlessness', name: 'Breathlessness'}, {id: 'Broken bones', name: 'Broken bones'}, {id: 'Bronchiectasis', name: 'Bronchiectasis'}, {id: 'Bronchiolitis', name: 'Bronchiolitis'}, {id: 'Bronchitis', name: 'Bronchitis'}, {id: 'Bronchodilator drugs', name: 'Bronchodilator drugs'}, {id: 'Bulimia', name: 'Bulimia'}, {id: 'Bunion operations', name: 'Bunion operations'}, {id: 'Bunion surgery', name: 'Bunion surgery'}, {id: 'Bursitis', name: 'Bursitis'}, {id: 'Caesarean section', name: 'Caesarean section'}, {id: 'Cancer', name: 'Cancer'}, {id: 'Cancer of the bile duct', name: 'Cancer of the bile duct'}, {id: 'Cancer of the bladder', name: 'Cancer of the bladder'}, {id: 'Cancer of the bone', name: 'Cancer of the bone'}, {id: 'Cancer of the bowel', name: 'Cancer of the bowel'}, {id: 'Cancer of the breast', name: 'Cancer of the breast'}, {id: 'Cancer of the breast male', name: 'Cancer of the breast male'}, {id: 'Cancer of the cervix', name: 'Cancer of the cervix'}, {id: 'Cancer of the colon rectum or bowel', name: 'Cancer of the colon rectum or bowel'}, {id: 'Cancer of the eye', name: 'Cancer of the eye'}, {id: 'Cancer of the kidney', name: 'Cancer of the kidney'}, {id: 'Cancer of the larynx', name: 'Cancer of the larynx'}, {id: 'Cancer of the lip', name: 'Cancer of the lip'}, {id: 'Cancer of the liver', name: 'Cancer of the liver'}, {id: 'Cancer of the lung', name: 'Cancer of the lung'}, {id: 'Cancer of the mouth', name: 'Cancer of the mouth'}, {id: 'Cancer of the nose', name: 'Cancer of the nose'}, {id: 'Cancer of the oesophagus', name: 'Cancer of the oesophagus'}, {id: 'Cancer of the ovary', name: 'Cancer of the ovary'}, {id: 'Cancer of the pancreas', name: 'Cancer of the pancreas'}, {id: 'Cancer of the pharynx', name: 'Cancer of the pharynx'}, {id: 'Cancer of the prostate', name: 'Cancer of the prostate'}, {id: 'Cancer of the salivary gland', name: 'Cancer of the salivary gland'}, {id: 'Cancer of the skin', name: 'Cancer of the skin'}, {id: 'Cancer of the stomach', name: 'Cancer of the stomach'}, {id: 'Cancer of the testicle', name: 'Cancer of the testicle'}, {id: 'Cancer of the thyroid', name: 'Cancer of the thyroid'}, {id: 'Cancer of the tongue', name: 'Cancer of the tongue'}, {id: 'Cancer of the uterus', name: 'Cancer of the uterus'}, {id: 'Cancer of the vagina', name: 'Cancer of the vagina'}, {id: 'Cancer of the vulva', name: 'Cancer of the vulva'}, {id: 'Carbon monoxide poisoning', name: 'Carbon monoxide poisoning'}, {id: 'Cardiology', name: 'Cardiology'}, {id: 'Cardiothoracic Surgery', name: 'Cardiothoracic Surgery'}, {id: 'Care During Labour', name: 'Care During Labour'}, {id: 'Care During Labour', name: 'Care During Labour'}, {id: 'Carers', name: 'Carers'}, {id: 'Carotid artery surgery (endarterectomy)', name: 'Carotid artery surgery (endarterectomy)'}, {id: 'Carpal tunnel release', name: 'Carpal tunnel release'}, {id: 'Cartilage damage', name: 'Cartilage damage'}, {id: 'Cataract surgery', name: 'Cataract surgery'}, {id: 'Cataracts', name: 'Cataracts'}, {id: 'Catarrh', name: 'Catarrh'}, {id: 'Cavernous sinus thrombosis', name: 'Cavernous sinus thrombosis'}, {id: 'CEA test (L)', name: 'CEA test (L)'}, {id: 'Cellulitis', name: 'Cellulitis'}, {id: 'Cerebral palsy', name: 'Cerebral palsy'}, {id: 'Cerebrovascular disease (D)', name: 'Cerebrovascular disease (D)'}, {id: 'Cervical screening test', name: 'Cervical screening test'}, {id: 'Cervical spondylosis', name: 'Cervical spondylosis'}, {id: 'Charcot-Marie-Tooth disease', name: 'Charcot-Marie-Tooth disease'}, {id: 'Chemotherapy', name: 'Chemotherapy'}, {id: 'Chest infection', name: 'Chest infection'}, {id: 'Chickenpox', name: 'Chickenpox'}, {id: 'Children in care', name: 'Children in care'}, {id: 'Chiropractic (OL)', name: 'Chiropractic (OL)'}, {id: 'Chlamydia', name: 'Chlamydia'}, {id: 'Chloride test (L)', name: 'Chloride test (L)'}, {id: 'Cholesterol', name: 'Cholesterol'}, {id: 'Chorionic Villus sampling', name: 'Chorionic Villus sampling'}, {id: 'Chronic fatigue syndrome', name: 'Chronic fatigue syndrome'}, {id: 'Chronic Kidney Disease', name: 'Chronic Kidney Disease'}, {id: 'Chronic obstructive pulmonary disease', name: 'Chronic obstructive pulmonary disease'}, {id: 'Circumcision', name: 'Circumcision'}, {id: 'Cirrhosis', name: 'Cirrhosis'}, {id: 'Cleft lip and palate', name: 'Cleft lip and palate'}, {id: 'Clinical Genetics', name: 'Clinical Genetics'}, {id: 'Clinical Haematology', name: 'Clinical Haematology'}, {id: 'Clinical Immunology & Allergy', name: 'Clinical Immunology & Allergy'}, {id: 'Clinical trials', name: 'Clinical trials'}, {id: 'Clostridium difficile', name: 'Clostridium difficile'}, {id: 'Coeliac disease', name: 'Coeliac disease'}, {id: 'Cognitive behavioural therapy', name: 'Cognitive behavioural therapy'}, {id: 'Cold common', name: 'Cold common'}, {id: 'Cold sore', name: 'Cold sore'}, {id: 'Colic', name: 'Colic'}, {id: 'Colostomy', name: 'Colostomy'}, {id: 'Colour vision deficiency', name: 'Colour vision deficiency'}, {id: 'Colposcopy', name: 'Colposcopy'}, {id: 'Combined contraceptive pill', name: 'Combined contraceptive pill'}, {id: 'Complaints about NHS services', name: 'Complaints about NHS services'}, {id: 'Complementary therapies (OL)', name: 'Complementary therapies (OL)'}, {id: 'Complex Regional Pain Syndrome (D)', name: 'Complex Regional Pain Syndrome (D)'}, {id: 'Condoms (male and female)', name: 'Condoms (male and female)'}, {id: 'Congenital heart disease', name: 'Congenital heart disease'}, {id: 'Congestive heart failure', name: 'Congestive heart failure'}, {id: 'Conjunctivitis', name: 'Conjunctivitis'}, {id: 'Consent to treatment', name: 'Consent to treatment'}, {id: 'Constipation', name: 'Constipation'}, {id: 'Contraception', name: 'Contraception'}, {id: 'Contraceptive implants and injections', name: 'Contraceptive implants and injections'}, {id: 'Contraceptive patch', name: 'Contraceptive patch'}, {id: 'Coronary Angiography', name: 'Coronary Angiography'}, {id: 'Coronary angioplasty', name: 'Coronary angioplasty'}, {id: 'Coronary heart disease', name: 'Coronary heart disease'}, {id: 'Correction of squint', name: 'Correction of squint'}, {id: 'Corticosteroid medicines', name: 'Corticosteroid medicines'}, {id: 'Corticosteroid preparations (topical)', name: 'Corticosteroid preparations (topical)'}, {id: 'Cosmetic surgery', name: 'Cosmetic surgery'}, {id: 'Cough', name: 'Cough'}, {id: 'Counselling', name: 'Counselling'}, {id: 'Cradle cap', name: 'Cradle cap'}, {id: 'Craniosynostosis', name: 'Craniosynostosis'}, {id: 'Creutzfeldt-Jakob disease', name: 'Creutzfeldt-Jakob disease'}, {id: 'Crohn\'s disease', name: 'Crohn\'s disease'}, {id: 'Croup', name: 'Croup'}, {id: 'CT scan', name: 'CT scan'}, {id: 'Cushing\'s syndrome', name: 'Cushing\'s syndrome'}, {id: 'Cuts and grazes', name: 'Cuts and grazes'}, {id: 'Cystic fibrosis', name: 'Cystic fibrosis'}, {id: 'Cystitis', name: 'Cystitis'}, {id: 'Cytomegalovirus', name: 'Cytomegalovirus'}, {id: 'Dandruff', name: 'Dandruff'}, {id: 'Deafblindness', name: 'Deafblindness'}, {id: 'Decongestant drugs', name: 'Decongestant drugs'}, {id: 'Deep vein thrombosis', name: 'Deep vein thrombosis'}, {id: 'Dehydration', name: 'Dehydration'}, {id: 'Dementia', name: 'Dementia'}, {id: 'Dengue', name: 'Dengue'}, {id: 'Dental abscess', name: 'Dental abscess'}, {id: 'Dental care for babies and children', name: 'Dental care for babies and children'}, {id: 'Dental decay', name: 'Dental decay'}, {id: 'Dental Medicine Specialties', name: 'Dental Medicine Specialties'}, {id: 'Depression', name: 'Depression'}, {id: 'Dermatology', name: 'Dermatology'}, {id: 'Destruction of kidney stones', name: 'Destruction of kidney stones'}, {id: 'DEXA scan', name: 'DEXA scan'}, {id: 'Diabetes', name: 'Diabetes'}, {id: 'Diabetes insipidus', name: 'Diabetes insipidus'}, {id: 'Diabetic retinopathy', name: 'Diabetic retinopathy'}, {id: 'Diagnostic endoscopy of the bladder (Cystoscopy)', name: 'Diagnostic endoscopy of the bladder (Cystoscopy)'}, {id: 'Diagnostic endoscopy of the stomach', name: 'Diagnostic endoscopy of the stomach'}, {id: 'Dialysis', name: 'Dialysis'}, {id: 'Diaphragms and caps', name: 'Diaphragms and caps'}, {id: 'Diarrhoea', name: 'Diarrhoea'}, {id: 'Diet', name: 'Diet'}, {id: 'Differential test (L)', name: 'Differential test (L)'}, {id: 'Dilatation and curettage (D&C)', name: 'Dilatation and curettage (D&C)'}, {id: 'Diphtheria', name: 'Diphtheria'}, {id: 'Diverticular problems', name: 'Diverticular problems'}, {id: 'Domestic violence', name: 'Domestic violence'}, {id: 'Double vision', name: 'Double vision'}, {id: 'Down\'s syndrome', name: 'Down\'s syndrome'}, {id: 'Drink spiking', name: 'Drink spiking'}, {id: 'Drug misuse', name: 'Drug misuse'}, {id: 'Dry eye syndrome', name: 'Dry eye syndrome'}, {id: 'Dysentery', name: 'Dysentery'}, {id: 'Dyslexia', name: 'Dyslexia'}, {id: 'Dysphagia', name: 'Dysphagia'}, {id: 'Dyspraxia (childhood)', name: 'Dyspraxia (childhood)'}, {id: 'Dystonia', name: 'Dystonia'}, {id: 'Ear infection', name: 'Ear infection'}, {id: 'Ear reshaping', name: 'Ear reshaping'}, {id: 'Ear, Nose & Throat (ENT)', name: 'Ear, Nose & Throat (ENT)'}, {id: 'Earwax', name: 'Earwax'}, {id: 'Eating disorders (D)', name: 'Eating disorders (D)'}, {id: 'Ectopic pregnancy', name: 'Ectopic pregnancy'}, {id: 'Ectropion', name: 'Ectropion'}, {id: 'Eczema (atopic)', name: 'Eczema (atopic)'}, {id: 'Eczema (contact dermatitis)', name: 'Eczema (contact dermatitis)'}, {id: 'Eczema (discoid)', name: 'Eczema (discoid)'}, {id: 'Eczema (varicose)', name: 'Eczema (varicose)'}, {id: 'EEG', name: 'EEG'}, {id: 'Ejaculation problems', name: 'Ejaculation problems'}, {id: 'Electrolytes (L)', name: 'Electrolytes (L)'}, {id: 'Embolism', name: 'Embolism'}, {id: 'Emergency contraception', name: 'Emergency contraception'}, {id: 'Emollients', name: 'Emollients'}, {id: 'Emphysema', name: 'Emphysema'}, {id: 'Encephalitis', name: 'Encephalitis'}, {id: 'Endocarditis', name: 'Endocarditis'}, {id: 'Endocrinology', name: 'Endocrinology'}, {id: 'Endometriosis', name: 'Endometriosis'}, {id: 'Endoscopy', name: 'Endoscopy'}, {id: 'Epidermolysis bullosa. (EB)', name: 'Epidermolysis bullosa. (EB)'}, {id: 'Epidural anaesthesia', name: 'Epidural anaesthesia'}, {id: 'Epiglottitis', name: 'Epiglottitis'}, {id: 'Epilepsy', name: 'Epilepsy'}, {id: 'Episiotomy', name: 'Episiotomy'}, {id: 'Erectile dysfunction', name: 'Erectile dysfunction'}, {id: 'Euthanasia', name: 'Euthanasia'}, {id: 'Evidence-based medicine (L)', name: 'Evidence-based medicine (L)'}, {id: 'Ewing\'s Sarcoma', name: 'Ewing\'s Sarcoma'}, {id: 'Examination of the uterus (Hysteroscopy)', name: 'Examination of the uterus (Hysteroscopy)'}, {id: 'Exercise', name: 'Exercise'}, {id: 'Exophthalmos', name: 'Exophthalmos'}, {id: 'Expert patients', name: 'Expert patients'}, {id: 'Extraction of wisdom teeth', name: 'Extraction of wisdom teeth'}, {id: 'Eye injuries', name: 'Eye injuries'}, {id: 'Fainting', name: 'Fainting'}, {id: 'Falls', name: 'Falls'}, {id: 'Family support (D)', name: 'Family support (D)'}, {id: 'Febrile convulsions', name: 'Febrile convulsions'}, {id: 'Female sterilisation', name: 'Female sterilisation'}, {id: 'Fibroids', name: 'Fibroids'}, {id: 'Fibromyalgia', name: 'Fibromyalgia'}, {id: 'Fibrosarcoma', name: 'Fibrosarcoma'}, {id: 'Flatulence', name: 'Flatulence'}, {id: 'Floaters', name: 'Floaters'}, {id: 'Flu', name: 'Flu'}, {id: 'Flu jab', name: 'Flu jab'}, {id: 'Fluoride', name: 'Fluoride'}, {id: 'Food allergy', name: 'Food allergy'}, {id: 'Food poisoning', name: 'Food poisoning'}, {id: 'Food safety', name: 'Food safety'}, {id: 'Frostbite', name: 'Frostbite'}, {id: 'Frozen shoulder', name: 'Frozen shoulder'}, {id: 'Fungal nail infection', name: 'Fungal nail infection'}, {id: 'Gallbladder surgery', name: 'Gallbladder surgery'}, {id: 'Gallstones', name: 'Gallstones'}, {id: 'Ganglion removal', name: 'Ganglion removal'}, {id: 'Gangrene', name: 'Gangrene'}, {id: 'Gastrectomy', name: 'Gastrectomy'}, {id: 'Gastroenteritis', name: 'Gastroenteritis'}, {id: 'Gastroenterology', name: 'Gastroenterology'}, {id: 'Gastroesophageal reflux disease(GORD)', name: 'Gastroesophageal reflux disease(GORD)'}, {id: 'Gender dysphoria', name: 'Gender dysphoria'}, {id: 'General Medicine', name: 'General Medicine'}, {id: 'General Surgery', name: 'General Surgery'}, {id: 'Genetics', name: 'Genetics'}, {id: 'Genital herpes', name: 'Genital herpes'}, {id: 'Genital warts', name: 'Genital warts'}, {id: 'Get the right treatment (D)', name: 'Get the right treatment (D)'}, {id: 'Giardiasis', name: 'Giardiasis'}, {id: 'Glandular fever', name: 'Glandular fever'}, {id: 'Glaucoma', name: 'Glaucoma'}, {id: 'Glomerulonephritis', name: 'Glomerulonephritis'}, {id: 'Glucose tolerance test (L)', name: 'Glucose tolerance test (L)'}, {id: 'Glue ear', name: 'Glue ear'}, {id: 'Goitre', name: 'Goitre'}, {id: 'Gonorrhoea', name: 'Gonorrhoea'}, {id: 'Gout', name: 'Gout'}, {id: 'GPs', name: 'GPs'}, {id: 'Gram stain (L)', name: 'Gram stain (L)'}, {id: 'Guillain-Barre syndrome', name: 'Guillain-Barre syndrome'}, {id: 'Gum disease', name: 'Gum disease'}, {id: 'Gynaecologists and obstetricians', name: 'Gynaecologists and obstetricians'}, {id: 'Gynaecology', name: 'Gynaecology'}, {id: 'Haematology', name: 'Haematology'}, {id: 'Haemophilia', name: 'Haemophilia'}, {id: 'Hair loss', name: 'Hair loss'}, {id: 'Hand foot and mouth disease', name: 'Hand foot and mouth disease'}, {id: 'Hangover', name: 'Hangover'}, {id: 'Hay fever', name: 'Hay fever'}, {id: 'Head injury', name: 'Head injury'}, {id: 'Head lice', name: 'Head lice'}, {id: 'Headache', name: 'Headache'}, {id: 'Health records', name: 'Health records'}, {id: 'Hearing and vision tests for children', name: 'Hearing and vision tests for children'}, {id: 'Hearing impairment', name: 'Hearing impairment'}, {id: 'Hearing tests', name: 'Hearing tests'}, {id: 'Heart attack', name: 'Heart attack'}, {id: 'Heart block', name: 'Heart block'}, {id: 'Heart Bypass', name: 'Heart Bypass'}, {id: 'Heart failure', name: 'Heart failure'}, {id: 'Heart lung transplant', name: 'Heart lung transplant'}, {id: 'Heartburn', name: 'Heartburn'}, {id: 'Heatstroke', name: 'Heatstroke'}, {id: 'Hepatitis', name: 'Hepatitis'}, {id: 'Hepatitis A', name: 'Hepatitis A'}, {id: 'Hepatitis B', name: 'Hepatitis B'}, {id: 'Hepatitis C', name: 'Hepatitis C'}, {id: 'Hernia hiatus', name: 'Hernia hiatus'}, {id: 'Hernia inguinal', name: 'Hernia inguinal'}, {id: 'Hiccup', name: 'Hiccup'}, {id: 'Hip replacement', name: 'Hip replacement'}, {id: 'HIV and AIDS', name: 'HIV and AIDS'}, {id: 'Hodgkin\'s Lymphoma', name: 'Hodgkin\'s Lymphoma'}, {id: 'Home tests (L)', name: 'Home tests (L)'}, {id: 'Homeopathy', name: 'Homeopathy'}, {id: 'Hormone replacement therapy', name: 'Hormone replacement therapy'}, {id: 'Hospitals admission', name: 'Hospitals admission'}, {id: 'Hospitals children', name: 'Hospitals children'}, {id: 'Hospitals discharge', name: 'Hospitals discharge'}, {id: 'Hughes syndrome', name: 'Hughes syndrome'}, {id: 'Huntington\'s disease', name: 'Huntington\'s disease'}, {id: 'Hydrocephalus', name: 'Hydrocephalus'}, {id: 'Hydronephrosis', name: 'Hydronephrosis'}, {id: 'Hyperglycaemia', name: 'Hyperglycaemia'}, {id: 'Hyperhidrosis', name: 'Hyperhidrosis'}, {id: 'Hyperlipidaemia and lipid-lowering medicines', name: 'Hyperlipidaemia and lipid-lowering medicines'}, {id: 'Hypoglycaemia', name: 'Hypoglycaemia'}, {id: 'Hypothermia', name: 'Hypothermia'}, {id: 'Hysterectomy', name: 'Hysterectomy'}, {id: 'ICAS', name: 'ICAS'}, {id: 'Ileostomy', name: 'Ileostomy'}, {id: 'Immunisation', name: 'Immunisation'}, {id: 'Impetigo', name: 'Impetigo'}, {id: 'Incontinence- bowel', name: 'Incontinence- bowel'}, {id: 'Incontinence urinary', name: 'Incontinence urinary'}, {id: 'Indigestion', name: 'Indigestion'}, {id: 'Indoor allergy', name: 'Indoor allergy'}, {id: 'Infectious Diseases', name: 'Infectious Diseases'}, {id: 'Infertility', name: 'Infertility'}, {id: 'Ingrown toenail', name: 'Ingrown toenail'}, {id: 'Inquest', name: 'Inquest'}, {id: 'Insomnia', name: 'Insomnia'}, {id: 'Intensive care', name: 'Intensive care'}, {id: 'Intrauterine device (IUD)', name: 'Intrauterine device (IUD)'}, {id: 'Intrauterine system', name: 'Intrauterine system'}, {id: 'Irritable bowel syndrome', name: 'Irritable bowel syndrome'}, {id: 'Irritable hip', name: 'Irritable hip'}, {id: 'Itching', name: 'Itching'}, {id: 'IVF', name: 'IVF'}, {id: 'Japanese encephalitis', name: 'Japanese encephalitis'}, {id: 'Jaundice', name: 'Jaundice'}, {id: 'Jaundice - newborn', name: 'Jaundice - newborn'}, {id: 'Jet lag', name: 'Jet lag'}, {id: 'Joint hypermobility', name: 'Joint hypermobility'}, {id: 'Kawasaki disease', name: 'Kawasaki disease'}, {id: 'Ketosis', name: 'Ketosis'}, {id: 'Keyhole prostate surgery (TURP)', name: 'Keyhole prostate surgery (TURP)'}, {id: 'Kidney failure', name: 'Kidney failure'}, {id: 'Kidney infection', name: 'Kidney infection'}, {id: 'Kidney transplant', name: 'Kidney transplant'}, {id: 'Knee replacement', name: 'Knee replacement'}, {id: 'Knock knee', name: 'Knock knee'}, {id: 'Kyphosis', name: 'Kyphosis'}, {id: 'Labyrinthitis', name: 'Labyrinthitis'}, {id: 'Lactose intolerance', name: 'Lactose intolerance'}, {id: 'Laparoscopy', name: 'Laparoscopy'}, {id: 'Laryngitis', name: 'Laryngitis'}, {id: 'Laxatives', name: 'Laxatives'}, {id: 'Lazy eye', name: 'Lazy eye'}, {id: 'LDH (L)', name: 'LDH (L)'}, {id: 'Leg ulcer', name: 'Leg ulcer'}, {id: 'Legionnaire\'s disease', name: 'Legionnaire\'s disease'}, {id: 'Leptospirosis', name: 'Leptospirosis'}, {id: 'Leukaemia', name: 'Leukaemia'}, {id: 'Leukoplakia', name: 'Leukoplakia'}, {id: 'Lichen planus', name: 'Lichen planus'}, {id: 'Liposuction', name: 'Liposuction'}, {id: 'Listeriosis', name: 'Listeriosis'}, {id: 'Liver disease (alcoholic)', name: 'Liver disease (alcoholic)'}, {id: 'Liver transplant', name: 'Liver transplant'}, {id: 'Long-sightedness', name: 'Long-sightedness'}, {id: 'Lumbar puncture', name: 'Lumbar puncture'}, {id: 'Lupus', name: 'Lupus'}, {id: 'Lyme disease', name: 'Lyme disease'}, {id: 'Lymphoedema', name: 'Lymphoedema'}, {id: 'Lymphoma', name: 'Lymphoma'}, {id: 'Macular degeneration', name: 'Macular degeneration'}, {id: 'Magnesium test (L)', name: 'Magnesium test (L)'}, {id: 'Malaria', name: 'Malaria'}, {id: 'Male contraceptive pill', name: 'Male contraceptive pill'}, {id: 'Malignant melanoma', name: 'Malignant melanoma'}, {id: 'Malnutrition', name: 'Malnutrition'}, {id: 'Marfan syndrome', name: 'Marfan syndrome'}, {id: 'Mastectomy', name: 'Mastectomy'}, {id: 'Mastitis', name: 'Mastitis'}, {id: 'Measles', name: 'Measles'}, {id: 'Medulloblastoma', name: 'Medulloblastoma'}, {id: 'Ménière’s disease', name: 'Ménière’s disease'}, {id: 'Ménières disease', name: 'Ménières disease'}, {id: 'Meningitis', name: 'Meningitis'}, {id: 'Menopause', name: 'Menopause'}, {id: 'Mental health', name: 'Mental health'}, {id: 'Mental health services', name: 'Mental health services'}, {id: 'Mental health specialist services', name: 'Mental health specialist services'}, {id: 'Microalbumin test (L)', name: 'Microalbumin test (L)'}, {id: 'Migraine', name: 'Migraine'}, {id: 'Miscarriage', name: 'Miscarriage'}, {id: 'MMR', name: 'MMR'}, {id: 'Mobile phone safety', name: 'Mobile phone safety'}, {id: 'Moles', name: 'Moles'}, {id: 'Molluscum contagiosum', name: 'Molluscum contagiosum'}, {id: 'Morning sickness', name: 'Morning sickness'}, {id: 'Motor neurone disease', name: 'Motor neurone disease'}, {id: 'Mouth ulcer', name: 'Mouth ulcer'}, {id: 'MRI scan', name: 'MRI scan'}, {id: 'MRSA', name: 'MRSA'}, {id: 'Mucositis', name: 'Mucositis'}, {id: 'Multiple myeloma', name: 'Multiple myeloma'}, {id: 'Multiple sclerosis', name: 'Multiple sclerosis'}, {id: 'Mumps', name: 'Mumps'}, {id: 'Munchausen?s syndrome', name: 'Munchausen?s syndrome'}, {id: 'Muscular dystrophy', name: 'Muscular dystrophy'}, {id: 'Myasthenia gravis', name: 'Myasthenia gravis'}, {id: 'Nappy rash', name: 'Nappy rash'}, {id: 'Narcolepsy', name: 'Narcolepsy'}, {id: 'Natural family planning', name: 'Natural family planning'}, {id: 'Nephrology', name: 'Nephrology'}, {id: 'Nettle rash', name: 'Nettle rash'}, {id: 'Neuralgia', name: 'Neuralgia'}, {id: 'Neurofibromatosis', name: 'Neurofibromatosis'}, {id: 'Neurology', name: 'Neurology'}, {id: 'Neurosurgery', name: 'Neurosurgery'}, {id: 'NHS (D)', name: 'NHS (D)'}, {id: 'Non-Hodgkin\'s Lymphoma', name: 'Non-Hodgkin\'s Lymphoma'}, {id: 'Non-specific urethritis', name: 'Non-specific urethritis'}, {id: 'Non-specific urethritis (OL)', name: 'Non-specific urethritis (OL)'}, {id: 'Noonan syndrome', name: 'Noonan syndrome'}, {id: 'Norovirus', name: 'Norovirus'}, {id: 'Nosebleed', name: 'Nosebleed'}, {id: 'Obesity', name: 'Obesity'}, {id: 'Obsessive compulsive disorder', name: 'Obsessive compulsive disorder'}, {id: 'Oedema', name: 'Oedema'}, {id: 'Operations', name: 'Operations'}, {id: 'Ophthalmology', name: 'Ophthalmology'}, {id: 'Oral & Maxillo Facial Surgery', name: 'Oral & Maxillo Facial Surgery'}, {id: 'Oral Surgery', name: 'Oral Surgery'}, {id: 'Oral thrush', name: 'Oral thrush'}, {id: 'Organ donation', name: 'Organ donation'}, {id: 'Orthodontics', name: 'Orthodontics'}, {id: 'Osteoarthritis', name: 'Osteoarthritis'}, {id: 'Osteomyelitis', name: 'Osteomyelitis'}, {id: 'Osteopathy', name: 'Osteopathy'}, {id: 'Osteoporosis', name: 'Osteoporosis'}, {id: 'Otitis externa', name: 'Otitis externa'}, {id: 'Otitis media', name: 'Otitis media'}, {id: 'Out-of-hours services', name: 'Out-of-hours services'}, {id: 'Ovarian cyst', name: 'Ovarian cyst'}, {id: 'Pacemaker Implantation', name: 'Pacemaker Implantation'}, {id: 'Paget\'s disease', name: 'Paget\'s disease'}, {id: 'Painkillers', name: 'Painkillers'}, {id: 'Pancreatitis', name: 'Pancreatitis'}, {id: 'Pandemic flu', name: 'Pandemic flu'}, {id: 'Panic disorder', name: 'Panic disorder'}, {id: 'Parkinson\'s disease', name: 'Parkinson\'s disease'}, {id: 'Patient Advice and Liaison Services (D)', name: 'Patient Advice and Liaison Services (D)'}, {id: 'Patient and Public Involvement Forums (D)', name: 'Patient and Public Involvement Forums (D)'}, {id: 'Patient choice', name: 'Patient choice'}, {id: 'Pelvic inflammatory disease', name: 'Pelvic inflammatory disease'}, {id: 'Pemphigus vulgaris (D)', name: 'Pemphigus vulgaris (D)'}, {id: 'Peptic ulcer', name: 'Peptic ulcer'}, {id: 'Perforated eardrum', name: 'Perforated eardrum'}, {id: 'Pericarditis', name: 'Pericarditis'}, {id: 'Periods', name: 'Periods'}, {id: 'Periods absent', name: 'Periods absent'}, {id: 'Periods heavy', name: 'Periods heavy'}, {id: 'Periods irregular', name: 'Periods irregular'}, {id: 'Periods painful', name: 'Periods painful'}, {id: 'Peritonitis', name: 'Peritonitis'}, {id: 'Persistent vegetative state', name: 'Persistent vegetative state'}, {id: 'PET scan', name: 'PET scan'}, {id: 'Phenylketonuria (D)', name: 'Phenylketonuria (D)'}, {id: 'Phobias', name: 'Phobias'}, {id: 'Phosphate test (L)', name: 'Phosphate test (L)'}, {id: 'Physiotherapy', name: 'Physiotherapy'}, {id: 'Pilonidal sinus', name: 'Pilonidal sinus'}, {id: 'Plasma products', name: 'Plasma products'}, {id: 'Plastic surgery', name: 'Plastic surgery'}, {id: 'Pleurisy', name: 'Pleurisy'}, {id: 'Pneumococcal infections', name: 'Pneumococcal infections'}, {id: 'Pneumonia', name: 'Pneumonia'}, {id: 'Poisoning', name: 'Poisoning'}, {id: 'Poliomyelitis', name: 'Poliomyelitis'}, {id: 'Polycystic ovarian syndrome', name: 'Polycystic ovarian syndrome'}, {id: 'Polymyalgia rheumatica', name: 'Polymyalgia rheumatica'}, {id: 'Polyps nose', name: 'Polyps nose'}, {id: 'Post-mortem', name: 'Post-mortem'}, {id: 'Postnatal Care', name: 'Postnatal Care'}, {id: 'Postnatal Care', name: 'Postnatal Care'}, {id: 'Post-natal depression', name: 'Post-natal depression'}, {id: 'Post-traumatic stress disorder', name: 'Post-traumatic stress disorder'}, {id: 'Potassium test (L)', name: 'Potassium test (L)'}, {id: 'Preconception', name: 'Preconception'}, {id: 'Pre-eclampsia', name: 'Pre-eclampsia'}, {id: 'Pregnancy', name: 'Pregnancy'}, {id: 'Premenstrual syndrome', name: 'Premenstrual syndrome'}, {id: 'Preoperative tests (L)', name: 'Preoperative tests (L)'}, {id: 'Pressure ulcers', name: 'Pressure ulcers'}, {id: 'Priapism', name: 'Priapism'}, {id: 'Prickly heat', name: 'Prickly heat'}, {id: 'Primary biliary cirrhosis', name: 'Primary biliary cirrhosis'}, {id: 'Progestogen-only pill', name: 'Progestogen-only pill'}, {id: 'Prolapse of the uterus', name: 'Prolapse of the uterus'}, {id: 'Prostate Cancer', name: 'Prostate Cancer'}, {id: 'Prostate disease', name: 'Prostate disease'}, {id: 'Psoriasis', name: 'Psoriasis'}, {id: 'Psychiatry', name: 'Psychiatry'}, {id: 'Psychosis', name: 'Psychosis'}, {id: 'Psychotherapy (D)', name: 'Psychotherapy (D)'}, {id: 'Puberty', name: 'Puberty'}, {id: 'Q Fever', name: 'Q Fever'}, {id: 'Quinsy', name: 'Quinsy'}, {id: 'Rabies', name: 'Rabies'}, {id: 'Radiation', name: 'Radiation'}, {id: 'Radiotherapy', name: 'Radiotherapy'}, {id: 'Raynaud\'s phenomenon', name: 'Raynaud\'s phenomenon'}, {id: 'Rectal examination', name: 'Rectal examination'}, {id: 'Red blood count (L)', name: 'Red blood count (L)'}, {id: 'Rehabilitation', name: 'Rehabilitation'}, {id: 'Reiter\'s syndrome', name: 'Reiter\'s syndrome'}, {id: 'Renin test', name: 'Renin test'}, {id: 'Repair of abdominal aortic aneurysm', name: 'Repair of abdominal aortic aneurysm'}, {id: 'Repair of femoral hernia', name: 'Repair of femoral hernia'}, {id: 'Repair of hand tendon', name: 'Repair of hand tendon'}, {id: 'Repair of inguinal hernia', name: 'Repair of inguinal hernia'}, {id: 'Repair of tendon in the knee and lower leg', name: 'Repair of tendon in the knee and lower leg'}, {id: 'Repair of umbilical hernia', name: 'Repair of umbilical hernia'}, {id: 'Repetitive strain injury', name: 'Repetitive strain injury'}, {id: 'Respiratory distress syndrome', name: 'Respiratory distress syndrome'}, {id: 'Respiratory Medicine', name: 'Respiratory Medicine'}, {id: 'Respiratory tract infection', name: 'Respiratory tract infection'}, {id: 'Respite care', name: 'Respite care'}, {id: 'Restless leg syndrome', name: 'Restless leg syndrome'}, {id: 'Restorative Dentistry', name: 'Restorative Dentistry'}, {id: 'Restricted growth', name: 'Restricted growth'}, {id: 'Retinal detachment', name: 'Retinal detachment'}, {id: 'Reye\'s syndrome', name: 'Reye\'s syndrome'}, {id: 'Rhabdosarcoma', name: 'Rhabdosarcoma'}, {id: 'Rhesus factor disease', name: 'Rhesus factor disease'}, {id: 'Rheumatic fever', name: 'Rheumatic fever'}, {id: 'Rheumatoid arthritis', name: 'Rheumatoid arthritis'}, {id: 'Rheumatology', name: 'Rheumatology'}, {id: 'Rhinitis', name: 'Rhinitis'}, {id: 'Rickets', name: 'Rickets'}, {id: 'Ringworm', name: 'Ringworm'}, {id: 'Risks and benefits of treatment (L)', name: 'Risks and benefits of treatment (L)'}, {id: 'Root canal treatment', name: 'Root canal treatment'}, {id: 'Rosacea', name: 'Rosacea'}, {id: 'Rotavirus', name: 'Rotavirus'}, {id: 'Roundworm', name: 'Roundworm'}, {id: 'Rubella', name: 'Rubella'}, {id: 'Sarcoma', name: 'Sarcoma'}, {id: 'SARS', name: 'SARS'}, {id: 'Scabies', name: 'Scabies'}, {id: 'Scarlet fever', name: 'Scarlet fever'}, {id: 'Scars', name: 'Scars'}, {id: 'Schizophrenia', name: 'Schizophrenia'}, {id: 'Sciatica', name: 'Sciatica'}, {id: 'Scoliosis', name: 'Scoliosis'}, {id: 'Screen-detected breast cancer', name: 'Screen-detected breast cancer'}, {id: 'Scurvy', name: 'Scurvy'}, {id: 'Seasonal affective disorder', name: 'Seasonal affective disorder'}, {id: 'Second opinion', name: 'Second opinion'}, {id: 'Self-injury', name: 'Self-injury'}, {id: 'Septic shock', name: 'Septic shock'}, {id: 'Sexual health clinics', name: 'Sexual health clinics'}, {id: 'Sexually transmitted infections', name: 'Sexually transmitted infections'}, {id: 'Shingles', name: 'Shingles'}, {id: 'Short-sightedness', name: 'Short-sightedness'}, {id: 'Sick building syndrome', name: 'Sick building syndrome'}, {id: 'Sickle-cell anaemia', name: 'Sickle-cell anaemia'}, {id: 'Sinusitis', name: 'Sinusitis'}, {id: 'Sjogren\'s syndrome', name: 'Sjogren\'s syndrome'}, {id: 'Skin Cancer Melanoma', name: 'Skin Cancer Melanoma'}, {id: 'Skin Cancer Non Melanoma', name: 'Skin Cancer Non Melanoma'}, {id: 'Slapped cheek syndrome', name: 'Slapped cheek syndrome'}, {id: 'Sleep apnoea', name: 'Sleep apnoea'}, {id: 'Slipped disc', name: 'Slipped disc'}, {id: 'Smoking (quitting)', name: 'Smoking (quitting)'}, {id: 'Snoring', name: 'Snoring'}, {id: 'Sore throat', name: 'Sore throat'}, {id: 'Spina bifida', name: 'Spina bifida'}, {id: 'Spinal muscular atrophy', name: 'Spinal muscular atrophy'}, {id: 'Sports injuries', name: 'Sports injuries'}, {id: 'Sprains', name: 'Sprains'}, {id: 'Staphylococcal infections', name: 'Staphylococcal infections'}, {id: 'Stillbirth', name: 'Stillbirth'}, {id: 'Stings insect', name: 'Stings insect'}, {id: 'Stings marine creatures', name: 'Stings marine creatures'}, {id: 'Streptococcal infections', name: 'Streptococcal infections'}, {id: 'Stress', name: 'Stress'}, {id: 'Stretch marks', name: 'Stretch marks'}, {id: 'Stroke', name: 'Stroke'}, {id: 'Subarachnoid haemorrhage', name: 'Subarachnoid haemorrhage'}, {id: 'Subdural haematoma', name: 'Subdural haematoma'}, {id: 'Sudden infant death syndrome', name: 'Sudden infant death syndrome'}, {id: 'Suicide', name: 'Suicide'}, {id: 'Sunburn', name: 'Sunburn'}, {id: 'Supraventricular tachycardia', name: 'Supraventricular tachycardia'}, {id: 'Surgery for Dupuytren\'s contracture', name: 'Surgery for Dupuytren\'s contracture'}, {id: 'Surgery for haemorrhoids', name: 'Surgery for haemorrhoids'}, {id: 'Surgery on the lower back (lumbar spine)', name: 'Surgery on the lower back (lumbar spine)'}, {id: 'Symptomatic breast cancer', name: 'Symptomatic breast cancer'}, {id: 'Syphilis', name: 'Syphilis'}, {id: 'Talipes', name: 'Talipes'}, {id: 'Tau protein test (L)', name: 'Tau protein test (L)'}, {id: 'Tay-Sachs disease', name: 'Tay-Sachs disease'}, {id: 'Teething', name: 'Teething'}, {id: 'Tendonitis', name: 'Tendonitis'}, {id: 'Tennis elbow', name: 'Tennis elbow'}, {id: 'Testicular lumps benign', name: 'Testicular lumps benign'}, {id: 'Tests', name: 'Tests'}, {id: 'Tetanus', name: 'Tetanus'}, {id: 'Thalassaemia', name: 'Thalassaemia'}, {id: 'Therapeutic endoscopy on the stomach', name: 'Therapeutic endoscopy on the stomach'}, {id: 'Threadworms', name: 'Threadworms'}, {id: 'Thrombosis', name: 'Thrombosis'}, {id: 'Thrush', name: 'Thrush'}, {id: 'Thrush men', name: 'Thrush men'}, {id: 'Thyroid over-active', name: 'Thyroid over-active'}, {id: 'Thyroid Surgery', name: 'Thyroid Surgery'}, {id: 'Thyroid under-active', name: 'Thyroid under-active'}, {id: 'TIA', name: 'TIA'}, {id: 'TIBC test (L)', name: 'TIBC test (L)'}, {id: 'Tick-borne encephalitis', name: 'Tick-borne encephalitis'}, {id: 'Tics', name: 'Tics'}, {id: 'Tietze\'s syndrome', name: 'Tietze\'s syndrome'}, {id: 'Tinnitus', name: 'Tinnitus'}, {id: 'Tonsillitis', name: 'Tonsillitis'}, {id: 'Toothache', name: 'Toothache'}, {id: 'Total protein test (L)', name: 'Total protein test (L)'}, {id: 'Tourette\'s syndrome', name: 'Tourette\'s syndrome'}, {id: 'Toxic shock syndrome', name: 'Toxic shock syndrome'}, {id: 'Toxocariasis', name: 'Toxocariasis'}, {id: 'Toxoplasmosis', name: 'Toxoplasmosis'}, {id: 'TPMT test (L)', name: 'TPMT test (L)'}, {id: 'Tracheostomy', name: 'Tracheostomy'}, {id: 'Trachoma', name: 'Trachoma'}, {id: 'Traction', name: 'Traction'}, {id: 'Tranquillisers (D)', name: 'Tranquillisers (D)'}, {id: 'Transient ischaemic attack', name: 'Transient ischaemic attack'}, {id: 'Trauma & Orthopaedics', name: 'Trauma & Orthopaedics'}, {id: 'Travel health', name: 'Travel health'}, {id: 'Travel sickness', name: 'Travel sickness'}, {id: 'Traveller\'s diarrhoea', name: 'Traveller\'s diarrhoea'}, {id: 'Treatment for trigger finger', name: 'Treatment for trigger finger'}, {id: 'Tremor (essential)', name: 'Tremor (essential)'}, {id: 'Trichomonas vaginalis', name: 'Trichomonas vaginalis'}, {id: 'Trichomoniasis', name: 'Trichomoniasis'}, {id: 'Trigeminal neuralgia', name: 'Trigeminal neuralgia'}, {id: 'Tuberculosis', name: 'Tuberculosis'}, {id: 'Tuberous sclerosis', name: 'Tuberous sclerosis'}, {id: 'Turner\'s syndrome', name: 'Turner\'s syndrome'}, {id: 'Typhoid fever', name: 'Typhoid fever'}, {id: 'Ulcerative colitis', name: 'Ulcerative colitis'}, {id: 'Ultrasound scan', name: 'Ultrasound scan'}, {id: 'Urinary catheterization', name: 'Urinary catheterization'}, {id: 'Urinary tract infection', name: 'Urinary tract infection'}, {id: 'Urology', name: 'Urology'}, {id: 'Uveitis', name: 'Uveitis'}, {id: 'Vaginismus', name: 'Vaginismus'}, {id: 'Varicose vein stripping', name: 'Varicose vein stripping'}, {id: 'Vasectomy', name: 'Vasectomy'}, {id: 'Vegetative state', name: 'Vegetative state'}, {id: 'Vertigo', name: 'Vertigo'}, {id: 'Visual impairment', name: 'Visual impairment'}, {id: 'Vitiligo', name: 'Vitiligo'}, {id: 'Walk-in Centres', name: 'Walk-in Centres'}, {id: 'Warts', name: 'Warts'}, {id: 'Watering eye', name: 'Watering eye'}, {id: 'West Nile Virus', name: 'West Nile Virus'}, {id: 'Whiplash', name: 'Whiplash'}, {id: 'Whooping cough', name: 'Whooping cough'}, {id: 'Working for the NHS', name: 'Working for the NHS'}, {id: 'X-ray', name: 'X-ray'}, {id: 'Yellow fever', name: 'Yellow fever'});
+var aColWidgetServerID =  new Array('ctl00_ctl00_ctl00_PlaceHolderMain_column2Content_column2Content_FindServicesControl');
+//]]>
+</script>
+</form>
+
+  	
+
+
+  
+</div>
+</body>
+<!-- NHC10WEB14PRP @ 16 November 2012 17:24:41 -->
+</html>
