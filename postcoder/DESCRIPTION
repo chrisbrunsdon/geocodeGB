@@ -1,0 +1,18 @@
+Package: postcoder
+Title: Geocoding Data With UK Post Codes
+Description: Look up grid references for UK postcodes
+Version: 1.0
+License: GPL-2
+Author: Chris Brunsdon <brunsdon@liverpool.ac.uk>
+Maintainer: Chris Brunsdon <brunsdon@liverpool.ac.uk>
+Depends:
+    sp,
+    pclookup,
+    R (>= 2.10.0)
+Collate:
+    'all_dot_postcodes.R'
+    'osng_dot_proj4string.R'
+    'postcode_dot_lookup_df.R'
+    'postcode_dot_lookup_vec.R'
+    'postcoder-package.R'
+    'pclookup.release.R'

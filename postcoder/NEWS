@@ -1,0 +1,10 @@
+postcoder
+RELEASE NOTES Version 0.9
+
+o Implements user-visible functions:
+  o postcode.lookup.vec
+  o postcode.lookup.df
+  o all.postcodes
+  o osng.proj4string
+
+o Uses pclookup package to obtain the post code lookup table 
